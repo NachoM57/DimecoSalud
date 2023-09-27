@@ -1,0 +1,35 @@
+img {
+    width: 180px;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+
+ul {
+    margin: 10px;
+    gap: 20px;
+}
+
+a {
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: #0a9146;
+}
+
+.navbar-toggler:active,
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+
+.navbar-toggler {
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
