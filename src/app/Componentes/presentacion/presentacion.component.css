@@ -1,5 +1,8 @@
 img {
     width: 300px;
+    outline: 1px solid rgb(34, 34, 34);
+    outline-offset: 10px;
+    border-radius: 10px;
 }
 
 h1 {
@@ -8,4 +11,8 @@ h1 {
 
 p {
     margin: 20px;
+}
+
+h1, p {
+    font-family: 'Montserrat', sans-serif;
 }
