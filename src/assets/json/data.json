@@ -1,0 +1,90 @@
+{
+    "navbar": [
+        {
+            "imagen": "../../../assets/imagenes/logo.png",
+            "alt": "Logo de Dimecó Salud",
+            "enlace1": "Inicio",
+            "enlace2": "Nosotros",
+            "enlace3": "Servicios",
+            "enlace4": "Contacto"
+        }
+    ],
+    "banner": [
+        {
+            "imagen": "../../../assets/imagenes/doctor.jpg",
+            "alt": "Banner"
+        }
+    ],
+    "redireccion": [
+        {
+            "titulo": "Consulte sus estudios",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nobis quia estipsaiusto consectetur voluptas nesciunt, odio consequuntur ratione qui veniam beatae nostrum. Molestiae, iste debitis! Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis.",
+            "boton": "Consultar"
+        }
+    ],
+    "presentacion": [
+        {
+            "titulo": "Dimeco Salud",
+            "imagen": "../../../assets/imagenes/doctor.jpg",
+            "alt": "Imagen de dimeco Salud",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nobis quia estipsaiusto consectetur voluptas nesciunt, odio consequuntur ratione qui veniam beatae nostrum. Molestiae, iste debitis! Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis. Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis"
+        }
+    ],
+    "servicios": [
+        {
+            "id": 1,
+            "titulo": "Mamografía digital completa",
+            "descripcion": "Contamos con un equipo de especialistas altamente calificados, con años de experiencia en el cuidado de la salud."
+        },
+        {
+            "id": 2,
+            "titulo": "Mamografía digital focalizada y magnificada",
+            "descripcion": "Utilizamos equipos y herramientas médicas de última generación, asegurando diagnósticos precisos y tratamientos efectivos."
+        },
+        {
+            "id": 3,
+            "titulo": "Radiología digital y contrastada",
+            "descripcion": "Cada paciente es único para nosotros. Brindamos una atención personalizada para entender y atender a sus necesidades específicas."
+        },
+        {
+            "id": 4,
+            "titulo": "Densitometría ósea",
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+        },
+        {
+            "id": 5,
+            "titulo": "Tomografía computada multislice volumétrica 3-D y Angiotac",
+            "descripcion": "Nos esforzamos constantemente por superar las expectativas, manteniendo altos estándares de calidad en todos nuestros servicios."
+        },
+        {
+            "id": 6,
+            "titulo": "Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido.",
+            "descripcion": "Estamos estratégicamente ubicados para un fácil acceso."
+        },
+        {
+            "id": 7,
+            "titulo": "Ecografía general bidimensional Adulto y Pediátrico",
+            "descripcion": "Estamos estratégicamente ubicados para un fácil acceso."
+        },
+        {
+            "id": 8,
+            "titulo": "Ecografía obstétrica bidimensional, 4-D y 5-D",
+            "descripcion": "Estamos estratégicamente ubicados para un fácil acceso."
+        },
+        {
+            "id": 9,
+            "titulo": "Ecodoppler color vascular periférico",
+            "descripcion": "Estamos estratégicamente ubicados para un fácil acceso."
+        },
+        {
+            "id": 10,
+            "titulo": "Ecografía y Ecodoppler color cardíaco",
+            "descripcion": "Estamos estratégicamente ubicados para un fácil acceso.Estamos estratégicamente ubicados para un fácil acceso.Estamos estratégicamente ubicados para un fácil acceso."
+        },
+        {
+            "id": 11,
+            "titulo": "Intervencionismo:",
+            "descripcion": "☑️Punción biopsia guiada por ecografía.\n\n☑️Punción biopsia guiada por T.A.C.\n\n☑️Marcación pre quirúrgica guiada por ecografía.\n\n☑️Arponeo mamario bajo control mamográfico prey post quirúrgico"
+        }   
+    ]
+}

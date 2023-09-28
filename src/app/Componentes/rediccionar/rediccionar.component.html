@@ -1,9 +1,5 @@
-<div class="container-fluid">
-        <h2 class="text-center">Consulte sus estudios</h2>
-        <p class="text-center col-lg-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nobis quia est
-            ipsa
-            iusto consectetur voluptas nesciunt, odio consequuntur ratione qui veniam beatae nostrum. Molestiae, iste
-            debitis! Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis.
-        </p>
-            <button class="custom-btn btn-5"><span>Consultar</span></button>
+<div class="container-fluid" *ngFor="let redi of  redireccion">
+    <h2 class="text-center">{{redi.titulo}}</h2>
+    <p class="text-center col-lg-8">{{redi.descripcion}}</p>
+    <button class="custom-btn btn-5"><span>{{redi.boton}}</span></button>
 </div>

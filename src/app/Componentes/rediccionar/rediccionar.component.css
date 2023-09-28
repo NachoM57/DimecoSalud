@@ -4,13 +4,13 @@
   align-items: center;
   flex-direction: column;
   height: 350px;
-  background-image: linear-gradient(120deg, #5977ff 0%, #9aacff 100%);
+  background-image: linear-gradient(120deg, #055a84 0%, #589abb 100%);
 }
 
 
 .text-center {
   margin: 15px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 
