@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule } from '@angular/common/http';
+import { LightgalleryModule } from 'lightgallery/angular';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,6 +12,7 @@ import { RediccionarComponent } from './Componentes/rediccionar/rediccionar.comp
 import { PresentacionComponent } from './Componentes/presentacion/presentacion.component';
 import { EstudiosComponent } from './Componentes/estudios/estudios.component';
 import { InformacionComponent } from './Componentes/informacion/informacion.component';
+import { GaleriaComponent } from './Componentes/galeria/galeria.component';
 
 @NgModule({
   declarations: [
@@ -22,11 +24,13 @@ import { InformacionComponent } from './Componentes/informacion/informacion.comp
     PresentacionComponent,
     EstudiosComponent,
     InformacionComponent,
+    GaleriaComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    [LightgalleryModule],
   ],
   providers: [],
   bootstrap: [AppComponent]
