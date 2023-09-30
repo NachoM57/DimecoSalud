@@ -9,16 +9,17 @@ a {
   cursor: pointer;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 
 .img-responsive {
-  width: 180px;
+  border-radius: 10px;
   margin: 10px;
+  width: 300px;
+  border: 1px solid #368864b5;
 }
 
-
+@media (max-width: 768px) {
+  .img-responsive {
+    width: 40%;
+    margin: 15px;
+  }
+}

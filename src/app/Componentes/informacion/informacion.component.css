@@ -2,7 +2,10 @@ h1 {
   margin-bottom: 70px;
 }
 
-
+.container {
+  display: flex;
+  justify-content: center;
+}
 
 .contact .info-item {
   height: 200px;
@@ -14,7 +17,7 @@ h1 {
 .contact .info-item i {
   font-size: 38px;
   line-height: 0;
-  color: #216ac9;
+  color: #055a84;
 }
 
 .contact .info-item h3 {
@@ -31,7 +34,7 @@ h1 {
 }
 
 .map-container {
-  top: 40px;
+  margin: 20px;
   position: relative;
   overflow: hidden;
   padding-bottom: 56.25%;
