@@ -1,4 +1,6 @@
-<div class="imagendoc" *ngFor="let ban of  banner">
-    <app-navbar></app-navbar>
-    <img src={{ban.imagen}} alt={{ban.alt}}>
-</div>
+<section id="banner">
+    <div class="banner" *ngFor="let ban of banner">
+        <app-navbar></app-navbar>
+        <img src={{ban.imagen}} alt={{ban.alt}}>
+    </div>
+</section>
