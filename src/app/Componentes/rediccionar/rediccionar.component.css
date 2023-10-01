@@ -14,63 +14,35 @@
 }
 
 
-
-button {
-  margin: 20px;
-  outline: none;
-}
-
-
-
-
-.custom-btn {
-  width: 180px;
-  height: 40px;
-  padding: 10px 25px;
-  border: 2px solid #000;
-  font-family: 'Lato', sans-serif;
+.btn-get-started {
+  font-family: "Jost", sans-serif;
   font-weight: 500;
-  background: transparent;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
+  font-size: 20px;
+  letter-spacing: 1px;
   display: inline-block;
+  padding: 10px 60px 11px 60px;
+  border-radius: 30px;
+  transition: 0.5s;
+  margin: 10px 0 0 0;
+  color: #ffffff;
+  background: #158e4b;
+  border: 1px solid rgb(255, 255, 255);
 }
 
-.btn-5 {
-  background: #000;
-  color: #fff;
-  line-height: 42px;
-  padding: 0;
-  border: none;
+.btn-get-started:hover {
+  border: 1px solid rgb(0, 0, 0);
+  background: #54c997;
+  color: rgb(0, 0, 0);
 }
 
-.btn-5:hover {
-  background: transparent;
-  color: #000;
+
+@media (max-width: 575px) {
+  .btn-get-started {
+    font-size: 16px;
+    padding: 10px 24px 11px 24px;
+  }
 }
 
-.btn-5:before,
-.btn-5:after {
-  content: '';
-  position: absolute;
-  top: 0;
-  right: 0;
-  height: 2px;
-  width: 0;
-  background: #000;
-  transition: 400ms ease all;
-}
-
-.btn-5:after {
-  right: inherit;
-  top: inherit;
-  left: 0;
-  bottom: 0;
-}
-
-.btn-5:hover:before,
-.btn-5:hover:after {
-  width: 100%;
-  transition: 800ms ease all;
+a {
+  text-decoration: none;
 }

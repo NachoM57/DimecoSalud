@@ -6,13 +6,17 @@
             "enlace1": "Inicio",
             "enlace2": "Nosotros",
             "enlace3": "Servicios",
-            "enlace4": "Contacto"
+            "enlace4": "Información",
+            "enlace5": "Galeria",
+            "enlace6": "Profesionales"
         }
     ],
     "banner": [
         {
             "imagen": "../../../assets/imagenes/banner.jpg",
-            "alt": "Banner"
+            "alt": "Banner",
+            "titulo": "Bienvenidos a Dimeco Salud",
+            "titulo2": "En Asistir combinamos tecnología avanzada con un equipo dedicado para brindarte una experiencia de salud inigualable en la ciudad de Bell Ville. Tu bienestar es nuestra prioridad."
         }
     ],
     "redireccion": [
@@ -84,7 +88,7 @@
             "id": 11,
             "titulo": "Intervencionismo:",
             "descripcion": "☑️Punción biopsia guiada por ecografía.\n\n☑️Punción biopsia guiada por T.A.C.\n\n☑️Marcación pre quirúrgica guiada por ecografía."
-        }   
+        }
     ],
     "informacion": [
         {
@@ -92,29 +96,28 @@
             "icono": "fa-solid fa-location-dot",
             "titulo": "Ubicación",
             "parrafo1": "Hipólito Yirigoyen 446",
-            "parrafo2": "Bell Ville, Córdoba." 
+            "parrafo2": "Bell Ville, Córdoba."
         },
         {
             "id": 2,
             "icono": "fa-solid fa-phone",
             "titulo": "Teléfonos",
             "parrafo1": "(03537)",
-            "parrafo2": "428594 /420158 / 424253" 
+            "parrafo2": "428594 /420158 / 424253"
         },
         {
             "id": 3,
             "icono": "fa-regular fa-envelope",
             "titulo": "Email",
             "parrafo1": "dimecosalud@gmail.com",
-            "parrafo2": "contact@example.com" 
+            "parrafo2": "contact@example.com"
         },
         {
             "id": 4,
             "icono": "fa-regular fa-clock",
             "titulo": "Horarios",
             "parrafo1": "Lunes a Viernes:",
-            "parrafo2": "8:00 a 12:00 hs. 16:00 a 20:00 hs." 
+            "parrafo2": "8:00 a 12:00 hs. 16:00 a 20:00 hs."
         }
     ]
-      
 }

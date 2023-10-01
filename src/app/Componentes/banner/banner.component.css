@@ -3,3 +3,21 @@ img {
     height: 100vh;
     object-fit: cover;
 }
+
+
+.banner {
+    position: relative;
+}
+
+
+h2, h6 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner-content {
+    background-color: rgba(32, 103, 209, 0.482);
+    border-radius: 0 10px 10px 0;
+    position: absolute;
+    top: 400px;
+    padding: 20px;
+}

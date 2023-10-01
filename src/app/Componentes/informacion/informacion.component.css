@@ -1,4 +1,5 @@
 h1 {
+  color: rgb(255, 255, 255);
   margin-bottom: 70px;
 }
 
@@ -7,7 +8,13 @@ h1 {
   justify-content: center;
 }
 
+#contact {
+  padding: 30px;
+  background-image: linear-gradient(120deg, #055a84 0%, #589abb 100%);
+}
+
 .contact .info-item {
+  border: 2px solid rgba(43, 129, 241, 0.838);
   height: 200px;
   border-radius: 10px;
   background: rgb(247, 247, 247);
@@ -17,7 +24,7 @@ h1 {
 .contact .info-item i {
   font-size: 38px;
   line-height: 0;
-  color: #055a84;
+  color: #157aac;
 }
 
 .contact .info-item h3 {
@@ -34,12 +41,11 @@ h1 {
 }
 
 .map-container {
-  margin: 20px;
   position: relative;
   overflow: hidden;
   padding-bottom: 56.25%;
   /* Proporción de aspecto 16:9 */
-  height: 0; 
+  height: 0;
   box-shadow: 0.1rem 0.1rem 1.5rem rgba(0, 0, 0, 0.3);
 }
 
