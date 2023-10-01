@@ -15,9 +15,11 @@ h2, h6 {
 }
 
 .banner-content {
-    background-color: rgba(32, 103, 209, 0.482);
+    backdrop-filter: blur(3px);
+    background-color: rgba(150, 186, 239, 0.482);
     border-radius: 0 10px 10px 0;
     position: absolute;
     top: 400px;
     padding: 20px;
 }
+

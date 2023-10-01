@@ -8,3 +8,28 @@
 hr {
     border: none;
 }
+
+
+
+
+h1:before,
+ h1:after {
+  content: "";
+  width: 50px;
+  height: 2px;
+  background: rgb(20, 23, 113);
+  display: inline-block;
+}
+
+ h1:before {
+  margin: 0 15px 10px 0;
+}
+
+ h1:after {
+  margin: 0 0 10px 15px;
+}
+
+
+a {
+  text-decoration: none;
+}
