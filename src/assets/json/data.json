@@ -13,7 +13,7 @@
     ],
     "banner": [
         {
-            "imagen": "../../../assets/imagenes/banner.jpg",
+            "imagen": "../../../assets/imagenes/aparato2.jpg",
             "alt": "Banner",
             "titulo": "Bienvenidos a Dimeco Salud",
             "titulo2": "En Asistir combinamos tecnología avanzada con un equipo dedicado para brindarte una experiencia de salud inigualable en la ciudad de Bell Ville. Tu bienestar es nuestra prioridad."
@@ -28,7 +28,7 @@
     ],
     "presentacion": [
         {
-            "imagen": "../../../assets/imagenes/doctor.jpg",
+            "imagen": "../../../assets/imagenes/piso1.jpg",
             "alt": "Imagen de dimeco Salud",
             "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nobis quia estipsaiusto consectetur voluptas nesciunt, odio consequuntur ratione qui veniam beatae nostrum. Molestiae, iste debitis! Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis. Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis"
         }
