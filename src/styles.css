@@ -17,7 +17,7 @@ h1:before,
   content: "";
   width: 50px;
   height: 2px;
-  background: rgb(20, 23, 113);
+  background: #21D192;
   display: inline-block;
 }
 

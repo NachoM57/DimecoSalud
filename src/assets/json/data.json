@@ -37,57 +37,90 @@
         {
             "id": 1,
             "titulo": "Mamografía digital completa",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestra instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info1",
+            "idd": "info1"
         },
         {
             "id": 2,
             "titulo": "Mamografía digital focalizada y magnificada",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info2",
+            "idd": "info2"
         },
         {
             "id": 3,
             "titulo": "Radiología digital y contrastada",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestr instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info3",
+            "idd": "info3"
         },
         {
             "id": 4,
             "titulo": "Densitometría ósea",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info4",
+            "idd": "info4"
         },
         {
             "id": 5,
             "titulo": "Tomografía computada multislice volumétrica 3-D y Angiotac",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info5",
+            "idd": "info5"
         },
         {
             "id": 6,
-            "titulo": "Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido.",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "titulo": "Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido",
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info6",
+            "idd": "info6"
         },
         {
             "id": 7,
             "titulo": "Ecografía general bidimensional Adulto y Pediátrico",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info7",
+            "idd": "info7"
         },
         {
             "id": 8,
             "titulo": "Ecografía obstétrica bidimensional, 4-D y 5-D",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info8",
+            "idd": "info8"
         },
         {
             "id": 9,
             "titulo": "Ecodoppler color vascular periférico",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info9",
+            "idd": "info9"
         },
         {
             "id": 10,
             "titulo": "Ecografía y Ecodoppler color cardíaco",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita."
+            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info10",
+            "idd": "info10"
         },
         {
             "id": 11,
             "titulo": "Intervencionismo:",
-            "descripcion": "☑️Punción biopsia guiada por ecografía.\n\n☑️Punción biopsia guiada por T.A.C.\n\n☑️Marcación pre quirúrgica guiada por ecografía."
+            "descripcion": "☑️ Punción biopsia guiada por ecografía.\n\n☑️ Punción biopsia guiada por T.A.C.\n\n☑️ Marcación pre quirúrgica guiada por ecografía.\n\n☑️ Arponeo mamario bajo control mamográfico pre y post quirúrgico.",
+            "icono": "fa-solid fa-arrow-right",
+            "target": "#info11",
+            "idd": "info11"
         }
     ],
     "informacion": [

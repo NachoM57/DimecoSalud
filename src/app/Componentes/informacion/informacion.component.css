@@ -14,7 +14,6 @@ h1 {
 }
 
 .contact .info-item {
-  border: 2px solid rgba(43, 129, 241, 0.838);
   height: 200px;
   border-radius: 10px;
   background: rgb(247, 247, 247);
@@ -24,7 +23,7 @@ h1 {
 .contact .info-item i {
   font-size: 38px;
   line-height: 0;
-  color: #157aac;
+  color: #383838d6;
 }
 
 .contact .info-item h3 {
