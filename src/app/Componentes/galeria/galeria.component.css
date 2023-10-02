@@ -15,7 +15,15 @@ a {
   margin: 10px;
   width: 300px;
   border: 1px solid #368864b5;
+  transition: transform 0.3s;
+  /* Agregamos una transición suave de 0.3 segundos */
 }
+
+.img-responsive:hover {
+  transform: scale(1.05);
+  /* Escalamos la imagen al 105% del tamaño original al pasar el mouse */
+}
+
 
 @media (max-width: 768px) {
   .img-responsive {
@@ -23,6 +31,3 @@ a {
     margin: 15px;
   }
 }
-
-
-

@@ -10,8 +10,9 @@ img {
 }
 
 
-h2, h6 {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+h2,
+h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .banner-content {
@@ -22,4 +23,3 @@ h2, h6 {
     top: 400px;
     padding: 20px;
 }
-

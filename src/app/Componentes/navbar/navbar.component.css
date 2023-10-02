@@ -63,14 +63,15 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    background-color: transparent !important; /* Agrega !important para asegurarte de que este estilo prevalezca */
+    background-color: transparent !important;
+    /* Agrega !important para asegurarte de que este estilo prevalezca */
     transition: background-color 0.3s ease;
-  }
+}
 
 /* Estilo de la barra de navegación fija (blanco) */
 nav.sticky {
     position: fixed;
     background-color: rgb(247, 247, 247) !important;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    z-index: 1000; 
-  }
+    z-index: 1000;
+}

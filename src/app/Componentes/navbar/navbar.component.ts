@@ -1,4 +1,4 @@
-import { Component, OnInit, HostListener  } from '@angular/core';
+import { Component, OnInit, HostListener } from '@angular/core';
 import { DataService } from 'src/app/Componentes/service/data.service';
 
 @Component({
@@ -33,5 +33,5 @@ export class NavbarComponent implements OnInit {
     } else {
       this.isSticky = false;
     }
-}
+  }
 }
