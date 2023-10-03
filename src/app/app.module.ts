@@ -14,6 +14,11 @@ import { EstudiosComponent } from './Componentes/estudios/estudios.component';
 import { InformacionComponent } from './Componentes/informacion/informacion.component';
 import { GaleriaComponent } from './Componentes/galeria/galeria.component';
 import { FooterComponent } from './Componentes/footer/footer.component';
+import { ProfesionalesComponent } from './Componentes/profesionales/profesionales.component';
+import { Barranavegacion2Component } from './Componentes/barranavegacion2/barranavegacion2.component';
+import { BannerprofesionalesComponent } from './Componentes/bannerprofesionales/bannerprofesionales.component';
+
+
 
 @NgModule({
   declarations: [
@@ -27,6 +32,9 @@ import { FooterComponent } from './Componentes/footer/footer.component';
     InformacionComponent,
     GaleriaComponent,
     FooterComponent,
+    ProfesionalesComponent,
+    Barranavegacion2Component,
+    BannerprofesionalesComponent,
   ],
   imports: [
     BrowserModule,

@@ -24,6 +24,17 @@ export class NavbarComponent implements OnInit {
 
   }
 
+  navigateTo(event: Event, elementId: string): void {
+    event.preventDefault(); // Prevenir la navegación por defecto
+    const element = document.getElementById(elementId);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+    }
+}
+
+
+
+
   @HostListener('window:scroll', ['$event'])
   checkScroll() {
     const scrollPosition = window.pageYOffset;
