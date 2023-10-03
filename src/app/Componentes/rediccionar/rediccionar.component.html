@@ -1,7 +1,10 @@
+<section id="redireccion">
 <div class="container-fluid" *ngFor="let redi of  redireccion">
-  <h2 class="text-center">{{redi.titulo}}</h2>
+  <h3 class="text-center">{{redi.titulo}}</h3>
+  <h2 class="text-center grande">Entrega <span>Digital</span></h2>
   <p class="text-center col-lg-8">{{redi.descripcion}}</p>
   <div class="d-flex justify-content-center">
-    <a href="#" class="btn-get-started">Consulte</a>
+    <a href={{redi.direccion}} class="btn-get-started" target="_blank">{{redi.boton}}</a>
   </div>
 </div>
+</section>

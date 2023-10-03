@@ -16,14 +16,15 @@
             "imagen": "../../../assets/imagenes/aparato2.jpg",
             "alt": "Banner",
             "titulo": "Bienvenidos a Dimeco Salud",
-            "titulo2": "En Asistir combinamos tecnología avanzada con un equipo dedicado para brindarte una experiencia de salud inigualable en la ciudad de Bell Ville. Tu bienestar es nuestra prioridad."
+            "titulo2": "Comprometidos con tu salud en cada momento. Innovación y cuidado que marca la diferencia. ¡En Dimeco Salud, estás en las mejores manos!"
         }
     ],
     "redireccion": [
         {
-            "titulo": "Consulte sus estudios",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nobis quia estipsaiusto consectetur voluptas nesciunt, odio consequuntur ratione qui veniam beatae nostrum. Molestiae, iste debitis! Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis.",
-            "boton": "Consultar"
+            "titulo": "Visualizá tus estudio",
+            "descripcion": "Optimiza tu tiempo y apoya la protección del medio ambiente consultando tus resultados mediante la Entrega Digital.",
+            "direccion": "http://dimecosrl.ddns.net:8181/",
+            "boton": "Ver Estudio"
         }
     ],
     "presentacion": [
@@ -151,6 +152,62 @@
             "titulo": "Horarios",
             "parrafo1": "Lunes a Viernes:",
             "parrafo2": "8:00 a 12:00 hs. 16:00 a 20:00 hs."
+        }
+    ],
+    "doctores": [
+        {
+            "id": 1,
+            "titulo": "Dr. Mariano Carasa",
+            "registro": "M.P. 28709 C.E. 12654",
+            "especialidad": "Médico\n\nEspecialista en Cardiología",
+            "descripcion": "La medicina para mí es el conjunto de conocimientos adquiridos para un correcto diagnóstico, tratamiento y acompañamiento en la enfermedad y en la prevención de las mismas.",
+            "imagen": "../../../assets/imagenes/MarianoCarasa.jpg",
+            "alt": "Dr. Mariano Carasa"
+        },
+        {
+            "id": 2,
+            "titulo": "Dr. Maximiliano Manuali",
+            "registro": "M.P. 26694 C.E. 12440",
+            "especialidad": "Médico Cirujano\n\nEspecialista en Diagnóstico por Imágenes",
+            "descripcion": "Ejercer con conocimiento, actuar con dedicación y avanzar con vocación por la salud y para el bienestar del otro.",
+            "imagen": "../../../assets/imagenes/MaximilianoManuali.jpg",
+            "alt": "Dr. Maximiliano Manuali"
+        },
+        {
+            "id": 3,
+            "titulo": "Dr Aldo Chipolla",
+            "registro": "M.P. 14455",
+            "especialidad": "Médico cirujano\n\nGinecología\n\nObstetricia\n\nUltrasonografía",
+            "descripcion": "Para ser médico se debe priorizar: honestidad, respeto por el paciente y actualización permanente en los avances de la medicina",
+            "imagen": "../../../assets/imagenes/AldoChipolla.jpg",
+            "alt": "Dr Aldo Chipolla"
+        },
+        {
+            "id": 4,
+            "titulo": "Dr. Juan Darío Bisonni",
+            "registro": "M.P. 29690/2 M.E. 14405",
+            "especialidad": "Especialista en Diagnóstico por Imágenes",
+            "descripcion": "Inspirar esperanza, generar empatía y brindarse con dedicación, para el bienestar físico y emocional del paciente.",
+            "imagen": "../../../assets/imagenes/JuanDaríoBisonni.jpg",
+            "alt": "Dr. Juan Darío Bisonni"
+        },
+        {
+            "id": 5,
+            "titulo": "dra. Vanesa Visintini",
+            "registro": "M.P. 36299 M.E. 19169",
+            "especialidad": "Especialista en Diagnóstico por Imágenes",
+            "descripcion": "Arte y ciencia de acompañar con responsabilidad y entrega procurando el mayorestado de bienestar y equilibrio de nuestra sociedad",
+            "imagen": "../../../assets/imagenes/VanesaVisintini.jpg",
+            "alt": "dra. Vanesa Visintini"
+        },
+        {
+            "id": 6,
+            "titulo": "Lic. Laura Primomo",
+            "registro": "M.P. 10-00016-0",
+            "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
+            "descripcion": "Vocación y profesionalismo en el cuidado y bienestar de nuestros pacientes, brindando un óptimo servicio y acompañamiento",
+            "imagen": "../../../assets/imagenes/LauraPrimomo.jpg",
+            "alt": "Lic. Laura Primomo"
         }
     ]
 }

@@ -1,7 +1,6 @@
 img {
     width: 400px;
-    outline: 1px solid rgb(34, 34, 34);
-    outline-offset: 5px;
+    border: 1px solid;
     border-radius: 10px;
 }
 
@@ -9,8 +8,11 @@ h1 {
     margin-bottom: 70px;
 }
 
+
+
+
 p {
-    margin-top:  40px;
+    margin-top: 40px;
 }
 
 h1,

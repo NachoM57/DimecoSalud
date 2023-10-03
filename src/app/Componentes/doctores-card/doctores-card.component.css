@@ -1,0 +1,44 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 25px auto;
+    max-width: 800px;
+    /* Limitando el ancho del contenedor */
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(75, 75, 75, 0.246);
+    position: relative;
+    z-index: 1;
+}
+
+
+
+.card-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 60px;
+    margin: 10px 0;
+}
+
+
+.img-fluid {
+    border: 1px solid #15996b;
+    border-radius: 5px 30px 5px 30px;
+    margin: 30px 0;
+}
+
+@media (max-width: 768px) {
+    .img-fluid {
+        margin: 30px;
+        width: 85%;
+    }
+}
+
+

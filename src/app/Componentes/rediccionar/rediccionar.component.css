@@ -7,12 +7,18 @@
   background-image: linear-gradient(120deg, #055a84 0%, #589abb 100%);
 }
 
+h2 {
+  font-size: 40px;
+}
 
 .text-center {
   margin: 15px;
   color: rgb(255, 255, 255);
 }
 
+span {
+  color: #83d2a6;
+}
 
 .btn-get-started {
   font-family: "Jost", sans-serif;
@@ -21,18 +27,16 @@
   letter-spacing: 1px;
   display: inline-block;
   padding: 10px 60px 11px 60px;
-  border-radius: 30px;
+  border-radius: 10px;
   transition: 0.5s;
   margin: 10px 0 0 0;
-  color: #ffffff;
-  background: #158e4b;
+  color: #000000;
+  background: #83d2a6;
   border: 1px solid rgb(0, 0, 0);
 }
 
 .btn-get-started:hover {
-  border: 1px solid rgb(0, 0, 0);
-  background: #54c997;
-  color: rgb(0, 0, 0);
+  background: #61ba89;
 }
 
 

@@ -27,6 +27,7 @@
 }
 
 .titulosub {
+  margin: 10px;
   color: rgb(39, 39, 39);
   cursor: pointer;
   font-size: 18px;
