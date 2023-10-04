@@ -1,5 +1,5 @@
 .info {
-  background: linear-gradient(rgba(255, 255, 255, 0.789), rgba(255, 255, 255, 0.937)), url('../../../assets/imagenes/doctor.jpg');
+  background: linear-gradient(rgba(255, 255, 255, 0.648), rgba(255, 255, 255, 0.953)), url('../../../assets/imagenes/imagenfondo.jpg');
   background-size: cover;
   /* para que la imagen cubra todo el contenedor */
   background-position: center;

@@ -1,5 +1,5 @@
-<section id="navbar2">
-    <nav  class="navbar navbar-expand-lg bg-body-tertiary" *ngFor="let nav of  navbar">
+<section id="navbar">
+    <nav [ngClass]="{'sticky': isSticky}" class="navbar navbar-expand-lg bg-body-tertiary" *ngFor="let nav of  navbar">
         <div class="container-fluid justify-content-between">
             <img src={{nav.imagen}} alt={{nav.alt}}>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -12,16 +12,16 @@
                         <a class="nav-link" aria-current="page" href="#">{{nav.enlace1}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#nosotros">{{nav.enlace2}}</a>
+                        <a class="nav-link" (click)="navigateTo($event,'nosotros')">{{nav.enlace2}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#servicios">{{nav.enlace3}}</a>
+                        <a class="nav-link" (click)="navigateTo($event,'servicios')">{{nav.enlace3}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">{{nav.enlace4}}</a>
+                        <a class="nav-link" (click)="navigateTo($event,'contact')">{{nav.enlace4}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#galeria">{{nav.enlace5}}</a>
+                        <a class="nav-link" (click)="navigateTo($event,'galeria')">{{nav.enlace5}}</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" routerLink="/profesionales">{{nav.enlace6}}</a>

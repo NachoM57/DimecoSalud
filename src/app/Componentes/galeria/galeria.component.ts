@@ -3,6 +3,7 @@ import lgZoom from 'lightgallery/plugins/zoom';
 import { BeforeSlideDetail } from 'lightgallery/lg-events';
 
 
+
 @Component({
   selector: 'app-galeria',
   templateUrl: './galeria.component.html',
