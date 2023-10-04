@@ -7,7 +7,7 @@ import { DataService } from 'src/app/Componentes/service/data.service';
   styleUrls: ['./informacion.component.css']
 })
 export class InformacionComponent implements OnInit {
-  informacion: any = []
+  informacion: any = [];
 
 
   constructor(private dataService: DataService) {
