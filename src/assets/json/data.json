@@ -37,24 +37,24 @@
     "servicios": [
         {
             "id": 1,
-            "titulo": "Mamografía digital completa",
-            "descripcion": "Nuestra instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "titulo": "Mamografías",
+            "descripcion": "Ofrecemos mamografía digital completa y mamografía digital focalizada y magnificada, utilizando tecnología avanzada para garantizar resultados precisos.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info1",
             "idd": "info1"
         },
         {
             "id": 2,
-            "titulo": "Mamografía digital focalizada y magnificada",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "titulo": "Radiología",
+            "descripcion": "Proveemos servicios de radiología digital y contrastada para imágenes detalladas y claras.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info2",
             "idd": "info2"
         },
         {
             "id": 3,
-            "titulo": "Radiología digital y contrastada",
-            "descripcion": "Nuestr instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "titulo": "Densitometría Ósea",
+            "descripcion": "Evaluación precisa de la densidad ósea para una detección temprana y tratamiento de enfermedades óseas.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info3",
             "idd": "info3"
@@ -69,59 +69,27 @@
         },
         {
             "id": 5,
-            "titulo": "Tomografía computada multislice volumétrica 3-D y Angiotac",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "titulo": "Tomografía",
+            "descripcion": "Nuestro equipo cuenta con tomografía computada multislice volumétrica 3-D y Angiotac para imágenes tridimensionales detalladas.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info5",
             "idd": "info5"
         },
         {
             "id": 6,
-            "titulo": "Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "titulo": "Ecografías",
+            "descripcion": "☑️ Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️ Ecodoppler color vascular periférico y cardíaco.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info6",
             "idd": "info6"
         },
         {
-            "id": 7,
-            "titulo": "Ecografía general bidimensional Adulto y Pediátrico",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
-            "icono": "fa-solid fa-arrow-right",
-            "target": "#info7",
-            "idd": "info7"
-        },
-        {
             "id": 8,
-            "titulo": "Ecografía obstétrica bidimensional, 4-D y 5-D",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
-            "icono": "fa-solid fa-arrow-right",
-            "target": "#info8",
-            "idd": "info8"
-        },
-        {
-            "id": 9,
-            "titulo": "Ecodoppler color vascular periférico",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
-            "icono": "fa-solid fa-arrow-right",
-            "target": "#info9",
-            "idd": "info9"
-        },
-        {
-            "id": 10,
-            "titulo": "Ecografía y Ecodoppler color cardíaco",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
-            "icono": "fa-solid fa-arrow-right",
-            "target": "#info10",
-            "idd": "info10"
-        },
-        {
-            "id": 11,
             "titulo": "Intervencionismo:",
             "descripcion": "☑️ Punción biopsia guiada por ecografía.\n\n☑️ Punción biopsia guiada por T.A.C.\n\n☑️ Marcación pre quirúrgica guiada por ecografía.\n\n☑️ Arponeo mamario bajo control mamográfico pre y post quirúrgico.",
             "icono": "fa-solid fa-arrow-right",
-            "target": "#info11",
-            "idd": "info11"
+            "target": "#info8",
+            "idd": "info8"
         }
     ],
     "informacion": [
@@ -136,8 +104,8 @@
             "id": 2,
             "icono": "fa-solid fa-phone",
             "titulo": "Teléfonos",
-            "parrafo1": "(03537)",
-            "parrafo2": "428594 /420158 / 424253"
+            "parrafo1": "(03537) 428594",
+            "parrafo2": "/420158 / 424253"
         },
         {
             "id": 3,
@@ -151,7 +119,7 @@
             "icono": "fa-regular fa-clock",
             "titulo": "Horarios",
             "parrafo1": "Lunes a Viernes:",
-            "parrafo2": "8:00 a 12:00 hs. 16:00 a 20:00 hs."
+            "parrafo2": "8:00 a 13:00 hs. 16:00 a 20:30 hs."
         }
     ],
     "doctores": [
@@ -159,7 +127,7 @@
             "id": 1,
             "titulo": "Dr. Mariano Carasa",
             "registro": "M.P. 28709 C.E. 12654",
-            "especialidad": "Médico\n\nEspecialista en Cardiología",
+            "especialidad": "Especialista en Cardiología",
             "descripcion": "La medicina para mí es el conjunto de conocimientos adquiridos para un correcto diagnóstico, tratamiento y acompañamiento en la enfermedad y en la prevención de las mismas.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarasa_1920x1280.webp?alt=media&token=dc2be4ad-9477-4b5c-bcae-68b99ac1c872&_gl=1*1f4l929*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODY1OS41OC4wLjA.",
             "alt": "Dr. Mariano Carasa",

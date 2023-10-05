@@ -1,4 +1,6 @@
 .info {
+  width: 900px;
+  height: 600px;
   background: linear-gradient(rgba(255, 255, 255, 0.648), rgba(255, 255, 255, 0.953)), url('https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2Fimagenfondo_1920x1280.webp?alt=media&token=aa2b3c0e-07c0-4ae2-ac7a-186b5b99c3aa&_gl=1*1n91bx5*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODIxMy40OC4wLjA.');
   background-size: cover;
   /* para que la imagen cubra todo el contenedor */
@@ -19,7 +21,6 @@
 
 
 
-
 .fa-solid.fa-arrow-right {
   color: #64acd4;
   font-size: 20px;
@@ -30,7 +31,7 @@
   margin: 10px;
   color: rgb(39, 39, 39);
   cursor: pointer;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 19.2px;
   font-weight: 400;
   text-align: left;
@@ -45,5 +46,3 @@
   /* Aumenta el tamaño del texto en un 20% */
   color: rgb(0, 0, 0);
 }
-
-

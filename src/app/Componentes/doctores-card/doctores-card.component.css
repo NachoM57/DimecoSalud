@@ -6,12 +6,12 @@
 
 .container {
     margin: 25px auto;
-    max-width: 1000px;
+    max-width: 950px;
     /* Limitando el ancho del contenedor */
 }
 
 .card {
-    background-color: #ffffff;
+    background-color: #f9fcffbb;
     box-shadow: 0 0 5px rgba(75, 75, 75, 0.246);
     position: relative;
     z-index: 1;
