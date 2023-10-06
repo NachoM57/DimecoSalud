@@ -1,21 +1,36 @@
 img {
-    border: 1px solid;
+    border: 1px solid #21D192;
     width: 400px;
     border-radius: 10px;
 }
+
 
 h1 {
     margin-bottom: 70px;
 }
 
-
-
+.descripcion {
+    border: 1px solid #21D192;
+    border-radius: 10px;
+}
 
 p {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 h1,
 p {
     font-family: 'Montserrat', sans-serif;
+}
+
+
+@media (max-width: 992px) {
+    .imagendimeco, .descripcion {
+        margin-bottom: 20px;  /* Ajusta el valor según lo que necesites */
+    }
+
+    img {
+        width: 100%;  /* para que la imagen sea responsive y se ajuste al contenedor */
+        max-width: 400px;  /* para que no sobrepase el tamaño original de 400px */
+    }
 }

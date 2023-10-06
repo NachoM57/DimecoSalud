@@ -13,18 +13,20 @@ a {
 }
 
 
+.img-wrapper {
+  display: inline-block;
+}
+
 .img-responsive {
   border-radius: 10px;
   margin: 10px;
   width: 300px;
   border: 1px solid #21D192;
   transition: transform 0.3s;
-  /* Agregamos una transición suave de 0.3 segundos */
 }
 
-.img-responsive:hover {
+.img-wrapper:hover .img-responsive {
   transform: scale(1.05);
-  /* Escalamos la imagen al 105% del tamaño original al pasar el mouse */
 }
 
 

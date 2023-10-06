@@ -29,9 +29,9 @@
     ],
     "presentacion": [
         {
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPrimerPiso_1920x1280.webp?alt=media&token=37782e88-2a84-4915-b74b-086420596131&_gl=1*1smc8my*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODAzMi42MC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FTomografo_1920x1280.webp?alt=media&token=424b4e27-5dfc-4d59-8e69-b1cc6f5f4a37&_gl=1*1788j54*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjYyODAyMi4xMC4xLjE2OTY2MjgwNTcuMjUuMC4w",
             "alt": "Imagen de dimeco Salud",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, nobis quia estipsaiusto consectetur voluptas nesciunt, odio consequuntur ratione qui veniam beatae nostrum. Molestiae, iste debitis! Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis. Explicabo obcaecati tempore, incidunt, recusandae quibusdam ipsum illo non dolores doloremque ut omnis"
+            "descripcion": "Ubicado en el corazón de Bell Ville, Córdoba, Dimeco Salud se erige como uno de los centros de diagnóstico más avanzados y confiables de la región. Con una misión clara de proporcionar servicios de diagnóstico de alta precisión y cuidado centrado en el paciente, nos enorgullece ser un referente en el ámbito de la salud. Nuestro equipo se compone de 10 profesionales altamente capacitados, comprometidos con la excelencia y el cuidado de la salud de cada paciente. A través de su vasta experiencia y formación continua, ofrecen un servicio cálido y personalizado, garantizando la precisión y seguridad en cada procedimiento. En Dimeco Salud, nos esforzamos día a día para garantizar que cada paciente reciba atención de calidad en un ambiente seguro y confortable. Te invitamos a conocer más sobre nosotros y a experimentar la diferencia de un servicio médico excepcional en Bell Ville. ¡Estamos aquí para cuidar de ti!"
         }
     ],
     "servicios": [
@@ -132,8 +132,7 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarasa_1920x1280.webp?alt=media&token=dc2be4ad-9477-4b5c-bcae-68b99ac1c872&_gl=1*1f4l929*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODY1OS41OC4wLjA.",
             "alt": "Dr. Mariano Carasa",
             "enfermedades": [
-                "Ecocardiografía",
-                "Ecografía Doppler color"
+                "Eco doppler periférico color cardiaco y vasos del cuello"
             ]
         },
         {
@@ -145,10 +144,15 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FManuali_1920x1280.webp?alt=media&token=b98620e0-01d4-4e02-9843-adda9760ab1b&_gl=1*1ollheo*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODcwNi4xMS4wLjA.",
             "alt": "Dr. Maximiliano Manuali",
             "enfermedades": [
-                "Ecografía general",
-                "Ecografía obstetrica bidimensional 4D y 5D",
-                "TAC",
-                "Radiografía general"
+                "   Ecografías en gral adultos y pediatricos de embarazo 1er 2do y 3er trimestre",
+                "Tn-Hn",
+                "Doppler d arterias uterinas 4 y 5 D",
+                "Ecocardiograma fetal",
+                "Radiografia digital simple y contrastada",
+                "Tomografía",
+                "Punciones",
+                "Mamografia digital",
+                "Espinografia y medición d miembros inferiores"
             ]
         },
         {
@@ -160,12 +164,7 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPenfold_1920x1280.webp?alt=media&token=e4b0c362-544f-47e3-94ac-b6936d2592cb&_gl=1*1sxyslf*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODcyOC41OC4wLjA.",
             "alt": "Imagen Doctor",
             "enfermedades": [
-                "Diabetes",
-                "Tiroides",
-                "Alteraciones lipídicas",
-                "Alteraciones del desarrollo y crecimiento",
-                "Déficit hormonal masculino, esterilidad",
-                "Enfermedades de glándulas suprarrenales, alteraciones de prolactina, obesidad"
+                "Densitometría Ósea"
             ]
         },
         {
@@ -177,12 +176,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FChipolla_1920x1280.webp?alt=media&token=8cc4ba6b-b3a6-41e6-9e6c-ab158e6c6c13&_gl=1*1ngwmp1*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTQyOC40MS4wLjA.",
             "alt": "Dr Aldo Chipolla",
             "enfermedades": [
-                "Embarazo de alto riesgo",
-                "Complicaciones durante el parto",
-                "Problemas de fertilidad",
-                "Trastornos menstruales",
-                "Diagnóstico prenatal",
-                "Otras enfermedades relacionadas"
+                "Ecografías obstetricas 1er, 2do y 3er trimestre ",
+                "Ecografías d TN-HN",
+                "Dopler d arterias uterinas 4 y 5D",
+                "ECografia d adultos en gral"
             ]
         },
         {
@@ -194,7 +191,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FBiisonni_1920x1280.webp?alt=media&token=52ef8bb2-9660-40a8-99e9-30b69bbafbdc&_gl=1*qj1l8a*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTQ5OC42MC4wLjA.",
             "alt": "Dr. Juan Darío Bisonni",
             "enfermedades": [
-                "Ecografía general"
+                "Ecografía gral adultos y pediateicos de doppler periférico vascular",
+                "Tomografías",
+                "Radiografía digital",
+                "Espinografia y medición d miembros inferiores"
             ]
         },
         {
@@ -206,8 +206,9 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FVisintini_1920x1280.webp?alt=media&token=f401deaa-9bc1-4a0d-a1e0-034721f0fbb7&_gl=1*wcofe9*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTU0OC4xMC4wLjA.",
             "alt": "dra. Vanesa Visintini",
             "enfermedades": [
-                "Mamografía digital ",
-                "Ecografía general"
+                " Ecografía gral adultos y pediateicos Doppler periférico vascular",
+                "Mamografias",
+                "Punciones"
             ]
         },
         {
@@ -217,7 +218,13 @@
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "Vocación y profesionalismo en el cuidado y bienestar de nuestros pacientes, brindando un óptimo servicio y acompañamiento",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPrimomo_1920x1280.webp?alt=media&token=888f6b4d-bc7e-4b0e-a6a4-3405d35a131b&_gl=1*rbv4p6*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTU5MC42MC4wLjA.",
-            "alt": "Lic. Laura Primomo"
+            "alt": "Lic. Laura Primomo",
+            "enfermedades": [
+                "Radiografía",
+                "Tomografía",
+                "Densitometría",
+                "Mamografía"
+            ]
         },
         {
             "id": 7,
@@ -226,7 +233,13 @@
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "La medicina es vocación, servicio y dedicación.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarolinaBallari_1920x1280.webp?alt=media&token=a58e87f6-792c-490f-af51-6b6ba7d3a7c8&_gl=1*1k5jtfb*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTYyNi4yNC4wLjA.",
-            "alt": "Lic. Carolina Ballari"
+            "alt": "Lic. Carolina Ballari",
+            "enfermedades": [
+                "Radiografía",
+                "Tomografía",
+                "Densitometría",
+                "Mamografía"
+            ]
         },
         {
             "id": 8,
@@ -235,16 +248,28 @@
             "especialidad": "Lic. En Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "Contención, calidez y esperanza junto al paciente",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FAndreaCeva_1920x1280.webp?alt=media&token=eedfc3d6-f1a8-4a9f-9873-76446d1bee2a&_gl=1*erwltm*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTY0My43LjAuMA..",
-            "alt": "Lic. Andrea Ceva"
+            "alt": "Lic. Andrea Ceva",
+            "enfermedades": [
+                "Radiografía",
+                "Tomografía",
+                "Densitometría",
+                "Mamografía"
+            ]
         },
         {
             "id": 9,
             "titulo": "Lic. Verónica Arévalo",
             "registro": "",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
-            "descripcion": "",
+            "descripcion": "Compromiso y excelencia en el manejo de imágenes médicas. Priorizamos la seguridad y el bienestar del paciente, ofreciendo un servicio de calidad y un constante apoyo.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FArevalo_1920x1280.webp?alt=media&token=ce254336-da39-4485-b9f2-90996e601fbb&_gl=1*jkucl4*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTY3My42MC4wLjA.",
-            "alt": "Lic. Verónica Arévalo"
+            "alt": "Lic. Verónica Arévalo",
+            "enfermedades": [
+                "Radiografía",
+                "Tomografía",
+                "Densitometría",
+                "Mamografía"
+            ]
         }
     ]
 }
