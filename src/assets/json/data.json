@@ -132,7 +132,8 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarasa_1920x1280.webp?alt=media&token=dc2be4ad-9477-4b5c-bcae-68b99ac1c872&_gl=1*1f4l929*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODY1OS41OC4wLjA.",
             "alt": "Dr. Mariano Carasa",
             "servicios": [
-                "Eco doppler periférico color cardiaco y vasos del cuello"
+                "Ecocardiografía",
+                "Ecografía Doppler color"
             ]
         },
         {
