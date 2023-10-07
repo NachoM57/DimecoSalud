@@ -10,19 +10,17 @@ h1 {
 }
 
 .descripcion {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
     border: 1px solid #21D192;
     border-radius: 10px;
 }
 
-p {
-    margin-top: 30px;
-}
 
-h1,
 p {
-    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
 }
-
 
 @media (max-width: 992px) {
 
