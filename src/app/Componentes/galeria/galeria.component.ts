@@ -15,7 +15,8 @@ export class GaleriaComponent {
   name = "Angular " + VERSION.major;
   settings = {
     counter: false,
-    plugins: [lgZoom]
+    plugins: [lgZoom],
+    download: false
   };
   onBeforeSlide = (detail: BeforeSlideDetail): void => {
     const { index, prevIndex } = detail;

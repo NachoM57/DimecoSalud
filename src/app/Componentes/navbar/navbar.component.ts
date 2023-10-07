@@ -30,7 +30,7 @@ export class NavbarComponent implements OnInit {
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
     }
-}
+  }
 
 
 

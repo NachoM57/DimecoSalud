@@ -5,22 +5,22 @@ h1 {
   margin-bottom: 70px;
 }
 
-
-
-
 a {
   cursor: pointer;
 }
 
-
 .img-wrapper {
   display: inline-block;
+  width: 33.33%;
+  /* 3 imágenes por fila en pantallas grandes */
+  padding: 10px;
+  box-sizing: border-box;
 }
 
 .img-responsive {
   border-radius: 10px;
-  margin: 10px;
-  width: 300px;
+  width: 100%;
+  /* Se adapta al tamaño de su contenedor */
   border: 1px solid #21D192;
   transition: transform 0.3s;
 }
@@ -29,12 +29,9 @@ a {
   transform: scale(1.05);
 }
 
-
 @media (max-width: 768px) {
-  .img-responsive {
-    width: 40%;
-    margin: 15px;
+  .img-wrapper {
+    width: 50%;
+    /* 2 imágenes por fila en pantallas pequeñas */
   }
 }
-
-

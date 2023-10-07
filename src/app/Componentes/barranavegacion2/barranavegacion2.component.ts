@@ -1,4 +1,4 @@
-import { Component, OnInit} from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { DataService } from 'src/app/Componentes/service/data.service';
 
 @Component({
@@ -29,6 +29,6 @@ export class Barranavegacion2Component implements OnInit {
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
     }
-}
+  }
 
 }

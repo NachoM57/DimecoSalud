@@ -13,27 +13,18 @@
         <div class="info col-lg-10">
             <h1 class="titulo text-center">Nuestros Servicios</h1>
             <div class="listajson text-center" *ngFor="let serv of servicios; let i = index">
-                <p class="titulosub" 
-                   data-bs-toggle="collapse" 
-                   [attr.data-bs-target]="serv.target" 
-                   data-aos="fade-up" 
-                   data-aos-duration="2000" 
-                   [attr.data-aos-delay]="200 + i * 100">
-                   
-                    <i [class]="serv.icono" 
-                       data-aos="fade-up" 
-                       data-aos-duration="1000" 
-                       [attr.data-aos-delay]="250 + i * 100"></i>
-                       
-                    <strong data-aos="fade-up" 
-                            data-aos-duration="1800" 
-                            [attr.data-aos-delay]="300 + i * 100"> {{serv.titulo}}</strong>
+                <p class="titulosub" data-bs-toggle="collapse" [attr.data-bs-target]="serv.target" data-aos="fade-up"
+                    data-aos-duration="2000" [attr.data-aos-delay]="200 + i * 100">
+
+                    <i [class]="serv.icono" data-aos="fade-up" data-aos-duration="1000"
+                        [attr.data-aos-delay]="250 + i * 100"></i>
+
+                    <strong data-aos="fade-up" data-aos-duration="1800" [attr.data-aos-delay]="300 + i * 100">
+                        {{serv.titulo}}</strong>
                 </p>
                 <div id={{serv.idd}} class="collapse">
-                    <p [innerHTML]="transformToHtmlBreaks(serv.descripcion)" 
-                       data-aos="fade-up" 
-                       data-aos-duration="2000" 
-                       [attr.data-aos-delay]="350 + i * 100">{{serv.descripcion}}</p>
+                    <p [innerHTML]="transformToHtmlBreaks(serv.descripcion)" data-aos="fade-up" data-aos-duration="2000"
+                        [attr.data-aos-delay]="350 + i * 100">{{serv.descripcion}}</p>
                 </div>
             </div>
         </div>

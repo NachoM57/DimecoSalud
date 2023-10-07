@@ -25,12 +25,17 @@ p {
 
 
 @media (max-width: 992px) {
-    .imagendimeco, .descripcion {
-        margin-bottom: 20px;  /* Ajusta el valor según lo que necesites */
+
+    .imagendimeco,
+    .descripcion {
+        margin-bottom: 20px;
+        /* Ajusta el valor según lo que necesites */
     }
 
     img {
-        width: 100%;  /* para que la imagen sea responsive y se ajuste al contenedor */
-        max-width: 400px;  /* para que no sobrepase el tamaño original de 400px */
+        width: 100%;
+        /* para que la imagen sea responsive y se ajuste al contenedor */
+        max-width: 400px;
+        /* para que no sobrepase el tamaño original de 400px */
     }
 }

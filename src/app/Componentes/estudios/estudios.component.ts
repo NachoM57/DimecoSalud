@@ -22,7 +22,7 @@ export class EstudiosComponent implements OnInit {
     })
 
   }
-  
+
 
 
   transformToHtmlBreaks(text: string): string {

@@ -2,22 +2,23 @@
     <div class="card">
         <div class="row">
             <div class="col-md-6">
-                <div class="p-4">
+                <div class="p-4" data-aos="fade-left" data-aos-duration="2000" data-aos-delay="200">
                     <h2>{{doc.titulo}}</h2>
                     <hr class="mb-4 mt-0 d-inline-block mx-auto"
                         style="width: 100px; background-color: #15996b; height: 2px" />
                     <span class="text-muted d-block mt-2">{{doc.registro}}</span>
-                    <div class="mt-4" [innerHTML]="transformToHtmlBreaks(doc.especialidad)"><strong>{{doc.especialidad}}</strong></div>
+                    <div class="mt-4" [innerHTML]="transformToHtmlBreaks(doc.especialidad)">
+                        <strong>{{doc.especialidad}}</strong></div>
                     <p class="text-muted mt-3">{{doc.descripcion}}</p>
                     <div class="enfermedades">
                         <h5>Servicios</h5>
                         <ul class="list-bullets">
-                          <li class="mb-2" *ngFor="let enfermedad of doc.enfermedades">{{enfermedad}}</li>
+                            <li class="mb-2" *ngFor="let serv of doc.servicios">{{serv}}</li>
                         </ul>
-                      </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-5" data-aos="fade-left" data-aos-duration="3000" data-aos-delay="500">
                 <img src="{{doc.imagen}}" alt={{doc.alt}} class="img-fluid">
             </div>
         </div>

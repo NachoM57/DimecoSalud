@@ -94,7 +94,8 @@ nav.sticky .navbar-nav .nav-link::before {
     left: 50%;
     width: 0;
     height: 2px;
-    background-color: #000000; /* Cambié a negro para que sea visible en un fondo blanco */
+    background-color: #000000;
+    /* Cambié a negro para que sea visible en un fondo blanco */
     transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
 }
 
@@ -103,4 +104,3 @@ nav.sticky .navbar-nav .nav-link:hover::before {
     width: 100%;
     left: 0;
 }
-

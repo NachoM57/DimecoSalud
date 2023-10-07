@@ -23,10 +23,10 @@ export class DoctoresCardComponent implements OnInit {
 
   }
 
-  
+
   transformToHtmlBreaks(text: string): string {
     return '<strong>' + text.replace(/\n\n/g, '<br>') + '</strong>';
   }
-  
+
 
 }

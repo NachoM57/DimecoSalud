@@ -1,17 +1,17 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
 hr {
-    border: none;
+  border: none;
 }
 
 
 h1:before,
- h1:after {
+h1:after {
   content: "";
   width: 50px;
   height: 2px;
@@ -19,11 +19,11 @@ h1:before,
   display: inline-block;
 }
 
- h1:before {
+h1:before {
   margin: 0 15px 10px 0;
 }
 
- h1:after {
+h1:after {
   margin: 0 0 10px 15px;
 }
 

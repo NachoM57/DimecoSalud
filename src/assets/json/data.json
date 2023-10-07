@@ -131,7 +131,7 @@
             "descripcion": "La medicina para mí es el conjunto de conocimientos adquiridos para un correcto diagnóstico, tratamiento y acompañamiento en la enfermedad y en la prevención de las mismas.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarasa_1920x1280.webp?alt=media&token=dc2be4ad-9477-4b5c-bcae-68b99ac1c872&_gl=1*1f4l929*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODY1OS41OC4wLjA.",
             "alt": "Dr. Mariano Carasa",
-            "enfermedades": [
+            "servicios": [
                 "Eco doppler periférico color cardiaco y vasos del cuello"
             ]
         },
@@ -143,7 +143,7 @@
             "descripcion": "Ejercer con conocimiento, actuar con dedicación y avanzar con vocación por la salud y para el bienestar del otro.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FManuali_1920x1280.webp?alt=media&token=b98620e0-01d4-4e02-9843-adda9760ab1b&_gl=1*1ollheo*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODcwNi4xMS4wLjA.",
             "alt": "Dr. Maximiliano Manuali",
-            "enfermedades": [
+            "servicios": [
                 "   Ecografías en gral adultos y pediatricos de embarazo 1er 2do y 3er trimestre",
                 "Tn-Hn",
                 "Doppler d arterias uterinas 4 y 5 D",
@@ -163,7 +163,7 @@
             "descripcion": "Endocrinólogo de la Universidad de Buenos Aires comprometido con el equilibrio hormonal y el bienestar de sus pacientes. Especializado en el diagnóstico y tratamiento de trastornos endocrinos, trabaja con dedicación para optimizar la salud metabólica y hormonal, ofreciendo un enfoque integral y personalizado",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPenfold_1920x1280.webp?alt=media&token=e4b0c362-544f-47e3-94ac-b6936d2592cb&_gl=1*1sxyslf*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODcyOC41OC4wLjA.",
             "alt": "Imagen Doctor",
-            "enfermedades": [
+            "servicios": [
                 "Densitometría Ósea"
             ]
         },
@@ -175,7 +175,7 @@
             "descripcion": "Ginecólogo obstetra y experto en obstetricia mamaria. Su dedicación a la salud de las mujeres durante el embarazo y su enfoque en el diagnóstico y tratamiento de condiciones mamarias lo convierten en un recurso confiable",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FChipolla_1920x1280.webp?alt=media&token=8cc4ba6b-b3a6-41e6-9e6c-ab158e6c6c13&_gl=1*1ngwmp1*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTQyOC40MS4wLjA.",
             "alt": "Dr Aldo Chipolla",
-            "enfermedades": [
+            "servicios": [
                 "Ecografías obstetricas 1er, 2do y 3er trimestre ",
                 "Ecografías d TN-HN",
                 "Dopler d arterias uterinas 4 y 5D",
@@ -190,7 +190,7 @@
             "descripcion": "Inspirar esperanza, generar empatía y brindarse con dedicación, para el bienestar físico y emocional del paciente.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FBiisonni_1920x1280.webp?alt=media&token=52ef8bb2-9660-40a8-99e9-30b69bbafbdc&_gl=1*qj1l8a*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTQ5OC42MC4wLjA.",
             "alt": "Dr. Juan Darío Bisonni",
-            "enfermedades": [
+            "servicios": [
                 "Ecografía gral adultos y pediateicos de doppler periférico vascular",
                 "Tomografías",
                 "Radiografía digital",
@@ -205,7 +205,7 @@
             "descripcion": "Arte y ciencia de acompañar con responsabilidad y entrega procurando el mayorestado de bienestar y equilibrio de nuestra sociedad",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FVisintini_1920x1280.webp?alt=media&token=f401deaa-9bc1-4a0d-a1e0-034721f0fbb7&_gl=1*wcofe9*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTU0OC4xMC4wLjA.",
             "alt": "dra. Vanesa Visintini",
-            "enfermedades": [
+            "servicios": [
                 " Ecografía gral adultos y pediateicos Doppler periférico vascular",
                 "Mamografias",
                 "Punciones"
@@ -219,7 +219,7 @@
             "descripcion": "Vocación y profesionalismo en el cuidado y bienestar de nuestros pacientes, brindando un óptimo servicio y acompañamiento",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPrimomo_1920x1280.webp?alt=media&token=888f6b4d-bc7e-4b0e-a6a4-3405d35a131b&_gl=1*rbv4p6*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTU5MC42MC4wLjA.",
             "alt": "Lic. Laura Primomo",
-            "enfermedades": [
+            "servicios": [
                 "Radiografía",
                 "Tomografía",
                 "Densitometría",
@@ -234,7 +234,7 @@
             "descripcion": "La medicina es vocación, servicio y dedicación.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarolinaBallari_1920x1280.webp?alt=media&token=a58e87f6-792c-490f-af51-6b6ba7d3a7c8&_gl=1*1k5jtfb*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTYyNi4yNC4wLjA.",
             "alt": "Lic. Carolina Ballari",
-            "enfermedades": [
+            "servicios": [
                 "Radiografía",
                 "Tomografía",
                 "Densitometría",
@@ -249,7 +249,7 @@
             "descripcion": "Contención, calidez y esperanza junto al paciente",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FAndreaCeva_1920x1280.webp?alt=media&token=eedfc3d6-f1a8-4a9f-9873-76446d1bee2a&_gl=1*erwltm*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTY0My43LjAuMA..",
             "alt": "Lic. Andrea Ceva",
-            "enfermedades": [
+            "servicios": [
                 "Radiografía",
                 "Tomografía",
                 "Densitometría",
@@ -264,7 +264,7 @@
             "descripcion": "Compromiso y excelencia en el manejo de imágenes médicas. Priorizamos la seguridad y el bienestar del paciente, ofreciendo un servicio de calidad y un constante apoyo.",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FArevalo_1920x1280.webp?alt=media&token=ce254336-da39-4485-b9f2-90996e601fbb&_gl=1*jkucl4*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTY3My42MC4wLjA.",
             "alt": "Lic. Verónica Arévalo",
-            "enfermedades": [
+            "servicios": [
                 "Radiografía",
                 "Tomografía",
                 "Densitometría",
