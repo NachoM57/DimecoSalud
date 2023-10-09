@@ -76,3 +76,10 @@ nav {
 }
 
 
+@media (max-width:767px) {
+    nav {
+      max-width: 80%;
+    }
+  }
+  
+
