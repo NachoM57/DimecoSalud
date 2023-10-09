@@ -73,34 +73,3 @@ nav {
     z-index: 2;
 }
 
-/* Estilo de la barra de navegación fija (blanco) */
-nav.sticky {
-    position: fixed;
-    background-color: rgb(255, 255, 255) !important;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    z-index: 1000;
-}
-
-
-nav.sticky a {
-    color: rgb(0, 0, 0);
-}
-
-
-nav.sticky .navbar-nav .nav-link::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 0;
-    height: 2px;
-    background-color: #000000;
-    /* Cambié a negro para que sea visible en un fondo blanco */
-    transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
-}
-
-
-nav.sticky .navbar-nav .nav-link:hover::before {
-    width: 100%;
-    left: 0;
-}
