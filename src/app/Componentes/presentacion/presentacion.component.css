@@ -37,3 +37,14 @@ p {
         /* para que no sobrepase el tamaño original de 400px */
     }
 }
+
+
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #000; /* o cualquier color que desees */
+    color: #fff;
+    z-index: 1000;
+  }
+  

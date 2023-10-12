@@ -21,10 +21,9 @@
     ],
     "redireccion": [
         {
-            "titulo": "Visualizá tus estudio",
-            "descripcion": "Optimiza tu tiempo y apoya la protección del medio ambiente consultando tus resultados mediante la Entrega Digital.",
+            "descripcion": "Optimiza tu tiempo y apoya la protección del medio ambiente consultando tus resultados mediante el Visualizador de imagen.",
             "direccion": "http://dimecosrl.ddns.net:8181/",
-            "boton": "Ver Estudio"
+            "boton": "Ver mi Imagen"
         }
     ],
     "presentacion": [
@@ -61,35 +60,27 @@
         },
         {
             "id": 4,
-            "titulo": "Densitometría ósea",
-            "descripcion": "Nuestras instalaciones están diseñadas para ofrecer el máximo confort, garantizando una experiencia positiva durante cada visita.",
+            "titulo": "Tomografía",
+            "descripcion": "Nuestro equipo cuenta con tomografía computada multislice volumétrica 3-D y Angiotac para imágenes tridimensionales detalladas.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info4",
             "idd": "info4"
         },
         {
             "id": 5,
-            "titulo": "Tomografía",
-            "descripcion": "Nuestro equipo cuenta con tomografía computada multislice volumétrica 3-D y Angiotac para imágenes tridimensionales detalladas.",
+            "titulo": "Ecografías",
+            "descripcion": "☑️ Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️ Ecodoppler color vascular periférico y cardíaco.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info5",
             "idd": "info5"
         },
         {
             "id": 6,
-            "titulo": "Ecografías",
-            "descripcion": "☑️ Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️ Ecodoppler color vascular periférico y cardíaco.",
-            "icono": "fa-solid fa-arrow-right",
-            "target": "#info6",
-            "idd": "info6"
-        },
-        {
-            "id": 8,
             "titulo": "Intervencionismo:",
             "descripcion": "☑️ Punción biopsia guiada por ecografía.\n\n☑️ Punción biopsia guiada por T.A.C.\n\n☑️ Marcación pre quirúrgica guiada por ecografía.\n\n☑️ Arponeo mamario bajo control mamográfico pre y post quirúrgico.",
             "icono": "fa-solid fa-arrow-right",
-            "target": "#info8",
-            "idd": "info8"
+            "target": "#info6",
+            "idd": "info6"
         }
     ],
     "informacion": [

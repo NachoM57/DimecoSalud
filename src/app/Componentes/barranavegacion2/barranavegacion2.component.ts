@@ -20,15 +20,6 @@ export class Barranavegacion2Component implements OnInit {
       this.navbar = data.navbar;
       this.navbar = data.navbar;
     })
-
-  }
-
-  navigateTo(event: Event, elementId: string): void {
-    event.preventDefault(); // Prevenir la navegación por defecto
-    const element = document.getElementById(elementId);
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
-    }
   }
 
 }

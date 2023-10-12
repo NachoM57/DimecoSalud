@@ -1,5 +1,5 @@
 img {
-    width: 200px;
+    width: 300px;
 }
 
 .navbar-toggler:focus {
@@ -73,3 +73,8 @@ nav {
     z-index: 2;
 }
 
+@media (max-width: 768px) {
+    img {
+      width: 200px;
+    }
+  }
