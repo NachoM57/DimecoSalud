@@ -29,21 +29,43 @@ img {
 }
 
 
+
 h2,
-h6 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+h4 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
 }
 
 h6 {
-    color: rgb(96, 96, 96);
+    color: rgb(198, 198, 198);
 }
 
 .banner-content {
     backdrop-filter: blur(3px);
-    background-color: rgba(255, 255, 255, 0.663);
+    background-color: rgba(69, 69, 69, 0.631);
     border-radius: 0 10px 10px 0;
     position: absolute;
     top: 450px;
     padding: 20px;
     z-index: 2;
+}
+
+
+.banner-content2 {
+    backdrop-filter: blur(3px);
+    background-color: rgba(69, 69, 69, 0.631);
+    border-radius:  0 10px 10px 0;
+    position: absolute;
+    top: 200px;
+    padding: 20px;
+   z-index: 2;
+}
+
+
+.listaprincipal {
+    list-style: none;
+}
+
+.fa-solid.fa-check {
+    color: #75c5ed;
 }

@@ -12,16 +12,15 @@
     <div class="container d-flex justify-content-center">
         <div class="info col-lg-10">
             <h1 class="titulo text-center">Nuestros Servicios</h1>
-            <div class="listajson text-center" *ngFor="let serv of servicios; let i = index">
+            <div class="listajson" *ngFor="let serv of servicios; let i = index">
                 <p class="titulosub" data-bs-toggle="collapse" [attr.data-bs-target]="serv.target">
                     <i [class]="serv.icono"></i>
                     <strong>{{serv.titulo}}</strong>
                 </p>
                 <div id={{serv.idd}} class="collapse">
-                    <p [innerHTML]="transformToHtmlBreaks(serv.descripcion)">{{serv.descripcion}}</p>
+                    <p class="text-center" [innerHTML]="transformToHtmlBreaks(serv.descripcion)">{{serv.descripcion}}</p>
                 </div>
             </div>
         </div>
-           
     </div>
 </section>

@@ -38,7 +38,7 @@
   position: relative;
   display: inline-block;
   transition: transform 0.3s ease;
-  /* Se modifica a transform */
+  margin-left: 350px;
 }
 
 .titulosub:hover {
@@ -47,4 +47,8 @@
   color: rgb(0, 0, 0);
 }
 
-
+@media (max-width: 768px) {
+  .titulosub {
+    margin-left: 70px;
+  }
+}

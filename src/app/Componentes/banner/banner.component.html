@@ -1,9 +1,26 @@
 <section id="banner">
     <div class="banner" *ngFor="let ban of banner">
         <app-navbar></app-navbar>
-        <div class="banner-content col-lg-6" data-aos="zoom-in" data-aos-duration="2000" data-aos-delay="200">
+        <div class="banner-content col-lg-6" data-aos="fade-left" data-aos-duration="1500" data-aos-delay="100">
             <h2>{{ban.titulo}}</h2>
             <h6>{{ban.titulo2}}</h6>
+        </div>
+        <div class="banner-content2 col-lg-2" data-aos="fade-right" data-aos-duration="1500"
+            data-aos-delay="100">
+            <ul class="listaprincipal">
+                <li>
+                    <h4><i class="fa-solid fa-check"></i> Mamografía</h4>
+                </li>
+                <li>
+                    <h4><i class="fa-solid fa-check"></i> Ecografía</h4>
+                </li>
+                <li>
+                    <h4><i class="fa-solid fa-check"></i> Tomografía</h4>
+                </li>
+                <li>
+                    <h4><i class="fa-solid fa-check"></i> Radiografía</h4>
+                </li>
+            </ul>
         </div>
         <img src={{ban.imagen}} alt={{ban.alt}}>
     </div>
