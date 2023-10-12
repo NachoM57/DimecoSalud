@@ -8,7 +8,7 @@ import { DataService } from 'src/app/Componentes/service/data.service';
 })
 export class DoctoresCardComponent implements OnInit {
   doctores: any = []
-
+  showScrollToTopButton = false;
 
   constructor(private dataService: DataService) {
   }
@@ -21,6 +21,25 @@ export class DoctoresCardComponent implements OnInit {
       this.doctores = data.doctores;
     })
 
+    window.addEventListener('scroll', this.checkScroll);
+  }
+
+
+  ngOnDestroy() {
+    // Es importante remover el listener cuando el componente ya no está en uso.
+    window.removeEventListener('scroll', this.checkScroll);
+  }
+
+  checkScroll = (): void => {
+    // Puedes ajustar el valor 100 al número de pixels que prefieras
+    this.showScrollToTopButton = window.pageYOffset > 100;
+  };
+
+  scrollToTop(): void {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
   }
 
 

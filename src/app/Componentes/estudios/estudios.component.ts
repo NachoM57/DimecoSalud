@@ -7,22 +7,19 @@ import { DataService } from 'src/app/Componentes/service/data.service';
   styleUrls: ['./estudios.component.css']
 })
 export class EstudiosComponent implements OnInit {
-  servicios: any = []
+  servicios: any = [];
 
 
-  constructor(private dataService: DataService) {
-  }
+  constructor(private dataService: DataService) {}
 
   ngOnInit(): void {
-    //esto es almacenar en la variable de instancia los datos recuperados por el servicio
+    // Esto es para almacenar en la variable de instancia los datos recuperados por el servicio
     this.dataService.getDatos().subscribe(data => {
-      //definir informacion a mostrar;
       this.servicios = data.servicios;
-      this.servicios = data.servicios;
-    })
+    });
+
 
   }
-
 
 
   transformToHtmlBreaks(text: string): string {

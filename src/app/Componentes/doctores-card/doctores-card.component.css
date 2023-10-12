@@ -39,4 +39,26 @@
         margin: 30px;
         width: 85%;
     }
+    .scroll-to-top {
+        right: 70px;
+       }
 }
+
+
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #000; /* o cualquier otro color que prefieras */
+    color: #fff; /* color del icono */
+    border: none;
+    border-radius: 50%;
+    padding: 10px 15px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+  
+  
+  .scroll-to-top:active {
+    background-color: #000000;
+  }
