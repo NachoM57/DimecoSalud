@@ -1,7 +1,7 @@
 {
     "navbar": [
         {
-            "imagen": "./assets/imagenes/logo.png",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2Flogo_1920x1280.webp?alt=media&token=5c9772e8-f687-4451-9ab4-e0f94a71f138&_gl=1*2ows4j*_ga*MTY5OTUxNjczMy4xNjk2ODYwOTQ5*_ga_CW55HF8NVT*MTY5NzkwMDY0MS4xNC4xLjE2OTc5MDA5OTUuNDMuMC4w",
             "alt": "Logo de Dimecó Salud",
             "enlace1": "Inicio",
             "enlace2": "Nosotros",

@@ -32,7 +32,7 @@ img {
 
 h2,
 h4 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
     color: rgb(255, 255, 255);
 }
 
@@ -54,11 +54,11 @@ h6 {
 .banner-content2 {
     backdrop-filter: blur(3px);
     background-color: rgba(69, 69, 69, 0.631);
-    border-radius:  0 10px 10px 0;
+    border-radius: 0 10px 10px 0;
     position: absolute;
     top: 200px;
     padding: 20px;
-   z-index: 2;
+    z-index: 2;
 }
 
 

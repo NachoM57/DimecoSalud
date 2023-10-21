@@ -15,10 +15,11 @@
             <div class="listajson" *ngFor="let serv of servicios; let i = index">
                 <p class="titulosub" data-bs-toggle="collapse" [attr.data-bs-target]="serv.target">
                     <i [class]="serv.icono"></i>
-                    <strong>{{serv.titulo}}</strong>
+                    {{serv.titulo}}
                 </p>
                 <div id={{serv.idd}} class="collapse">
-                    <p class="parrafodesplazado" [innerHTML]="transformToHtmlBreaks(serv.descripcion)">{{serv.descripcion}}</p>
+                    <p class="parrafodesplazado" [innerHTML]="transformToHtmlBreaks(serv.descripcion)">
+                        {{serv.descripcion}}</p>
                 </div>
             </div>
         </div>
