@@ -1,6 +1,6 @@
 img {
     width: 100%;
-    height: 100vh;
+    height: 800px;
     object-fit: cover;
 }
 
@@ -29,7 +29,7 @@ img {
 }
 
 span {
-    color: #83d2a6;
+    color: #75c5ed;
   }
 
 h2,

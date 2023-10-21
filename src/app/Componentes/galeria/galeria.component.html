@@ -13,7 +13,7 @@
           [attr.data-src]="image.src" [attr.data-responsive]="image.src">
           <div class="img-wrapper" data-aos="zoom-in" data-aos-duration="1500"
           data-aos-delay="100">
-            <img class="img-responsive" [src]="image.src" [alt]="image.alt" />
+            <img loading="lazy" class="img-responsive" [src]="image.src" [alt]="image.alt" />
           </div>
         </a>
 

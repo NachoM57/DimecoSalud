@@ -21,6 +21,7 @@
 
 .card-title {
     font-family: 'Cormorant Garamond', serif;
+    font-display: swap;
     font-size: 60px;
     font-weight: 300;
     line-height: 60px;
