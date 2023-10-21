@@ -28,7 +28,9 @@ img {
     /* Para que la capa esté por encima de la imagen pero debajo del contenido del banner */
 }
 
-
+span {
+    color: #83d2a6;
+  }
 
 h2,
 h4 {
@@ -37,7 +39,7 @@ h4 {
 }
 
 h6 {
-    color: rgb(205, 205, 205);
+    color: rgb(219, 219, 219);
 }
 
 .banner-content {

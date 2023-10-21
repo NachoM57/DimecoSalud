@@ -1,7 +1,7 @@
 {
     "navbar": [
         {
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2Flogo_1920x1280.webp?alt=media&token=5c9772e8-f687-4451-9ab4-e0f94a71f138&_gl=1*2ows4j*_ga*MTY5OTUxNjczMy4xNjk2ODYwOTQ5*_ga_CW55HF8NVT*MTY5NzkwMDY0MS4xNC4xLjE2OTc5MDA5OTUuNDMuMC4w",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/pagina%20principal%2Flogo_1920x1280.webp?alt=media&token=853633d9-c335-4663-b866-1b0d376ae042&_gl=1*119yfj*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjgwMy40MS4wLjA.",
             "alt": "Logo de Dimecó Salud",
             "enlace1": "Inicio",
             "enlace2": "Nosotros",
@@ -13,9 +13,9 @@
     ],
     "banner": [
         {
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FAparato2_1920x1280.webp?alt=media&token=59e5e0cf-c796-4c48-9ef5-12b7d60eefe8&_gl=1*18c03x8*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxNzk5Ni4xNC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/pagina%20principal%2FAparato2_1920x1280.webp?alt=media&token=f7bb7b75-e273-40f5-bf78-cdd4c5d8650a&_gl=1*1p4y691*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjE0NC4xNC4wLjA.",
             "alt": "Banner",
-            "titulo": "Bienvenidos a Dimeco Salud",
+            "titulo": "Bienvenidos a ",
             "titulo2": "En Dimeco Salud, fusionamos tecnología de punta con un equipo apasionado para ofrecerte una experiencia de salud sin paralelo en Bell Ville, Córdoba. Tu salud y bienestar son nuestra máxima prioridad."
         }
     ],
@@ -28,7 +28,7 @@
     ],
     "presentacion": [
         {
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FTomografo_1920x1280.webp?alt=media&token=424b4e27-5dfc-4d59-8e69-b1cc6f5f4a37&_gl=1*1788j54*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjYyODAyMi4xMC4xLjE2OTY2MjgwNTcuMjUuMC4w",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/pagina%20principal%2FTomografo_1920x1280.webp?alt=media&token=15fce65f-a73d-4923-a130-e0520767b880&_gl=1*wb5ym1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjE3NC41NS4wLjA.",
             "alt": "Imagen de dimeco Salud",
             "descripcion": "En el corazón de Bell Ville, Córdoba, Dimeco Salud destaca como el centro de diagnóstico más avanzado de la región. Nos respaldan 10 profesionales expertos, dedicados a brindar diagnósticos precisos y una atención personalizada. En Dimeco, garantizamos calidad y seguridad en cada servicio. Descubre la excelencia médica en Bell Ville. ¡Tu salud es nuestra prioridad!"
         }
@@ -120,7 +120,7 @@
             "registro": "M.P. 28709 C.E. 12654",
             "especialidad": "Especialista en Cardiología",
             "descripcion": "La medicina para mí es el conjunto de conocimientos adquiridos para un correcto diagnóstico, tratamiento y acompañamiento en la enfermedad y en la prevención de las mismas.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarasa_1920x1280.webp?alt=media&token=dc2be4ad-9477-4b5c-bcae-68b99ac1c872&_gl=1*1f4l929*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODY1OS41OC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FCarasa_1920x1280.webp?alt=media&token=5e9a9461-0ab0-4e3d-93de-769069ee229f&_gl=1*1rdrabh*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjk3NS4xNC4wLjA.",
             "alt": "Dr. Mariano Carasa",
             "servicios": [
                 "Ecocardiografía",
@@ -133,7 +133,7 @@
             "registro": "M.P. 26694 C.E. 12440",
             "especialidad": "Médico Cirujano\n\nEspecialista en Diagnóstico por Imágenes",
             "descripcion": "Ejercer con conocimiento, actuar con dedicación y avanzar con vocación por la salud y para el bienestar del otro.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FManuali_1920x1280.webp?alt=media&token=b98620e0-01d4-4e02-9843-adda9760ab1b&_gl=1*1ollheo*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODcwNi4xMS4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FManuali_1920x1280.webp?alt=media&token=30f10f82-e217-4a16-9b5d-4721bd94a8ab&_gl=1*gw71v6*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjk5Mi42MC4wLjA.",
             "alt": "Dr. Maximiliano Manuali",
             "servicios": [
                 "Ecografías en gral adultos y pediatricos de embarazo 1er 2do y 3er trimestre",
@@ -153,7 +153,7 @@
             "registro": "M.P.24221  -  M.E.7335",
             "especialidad": "Endocrinología",
             "descripcion": "Endocrinólogo de la Universidad de Buenos Aires comprometido con el equilibrio hormonal y el bienestar de sus pacientes. Especializado en el diagnóstico y tratamiento de trastornos endocrinos, trabaja con dedicación para optimizar la salud metabólica y hormonal, ofreciendo un enfoque integral y personalizado",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPenfold_1920x1280.webp?alt=media&token=e4b0c362-544f-47e3-94ac-b6936d2592cb&_gl=1*1sxyslf*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxODcyOC41OC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FPenfold_1920x1280.webp?alt=media&token=fd0cf558-37c3-45dc-a227-f696d863127c&_gl=1*1b3027e*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAxNC4zOC4wLjA.",
             "alt": "Imagen Doctor",
             "servicios": [
                 "Densitometría Ósea"
@@ -165,7 +165,7 @@
             "registro": "M.P. 14455",
             "especialidad": "Médico cirujano\n\nGinecología\n\nObstetricia\n\nUltrasonografía",
             "descripcion": "Ginecólogo obstetra y experto en obstetricia mamaria. Su dedicación a la salud de las mujeres durante el embarazo y su enfoque en el diagnóstico y tratamiento de condiciones mamarias lo convierten en un recurso confiable",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FChipolla_1920x1280.webp?alt=media&token=8cc4ba6b-b3a6-41e6-9e6c-ab158e6c6c13&_gl=1*1ngwmp1*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTQyOC40MS4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FChipolla_1920x1280.webp?alt=media&token=9f277c0a-0fdc-4461-85d7-5595adf8a115&_gl=1*10duhj1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAzNC4xOC4wLjA.",
             "alt": "Dr Aldo Chipolla",
             "servicios": [
                 "Ecografías obstetricas 1er, 2do y 3er trimestre ",
@@ -180,7 +180,7 @@
             "registro": "M.P. 29690/2 M.E. 14405",
             "especialidad": "Especialista en Diagnóstico por Imágenes",
             "descripcion": "Inspirar esperanza, generar empatía y brindarse con dedicación, para el bienestar físico y emocional del paciente.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FBiisonni_1920x1280.webp?alt=media&token=52ef8bb2-9660-40a8-99e9-30b69bbafbdc&_gl=1*qj1l8a*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTQ5OC42MC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FBiisonni_1920x1280.webp?alt=media&token=43127b1e-d665-4126-bfa2-1b34a87e4097&_gl=1*1wez81c*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzA2OC42MC4wLjA.",
             "alt": "Dr. Juan Darío Bisonni",
             "servicios": [
                 "Ecografía gral adultos y pediateicos de doppler periférico vascular",
@@ -195,7 +195,7 @@
             "registro": "M.P. 36299 M.E. 19169",
             "especialidad": "Especialista en Diagnóstico por Imágenes",
             "descripcion": "Arte y ciencia de acompañar con responsabilidad y entrega procurando el mayorestado de bienestar y equilibrio de nuestra sociedad",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FVisintini_1920x1280.webp?alt=media&token=f401deaa-9bc1-4a0d-a1e0-034721f0fbb7&_gl=1*wcofe9*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTU0OC4xMC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FVisintini_1920x1280.webp?alt=media&token=57bd8699-f303-47c3-a471-ac9f0e06866b&_gl=1*hfs1dz*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzA4Ny40MS4wLjA.",
             "alt": "dra. Vanesa Visintini",
             "servicios": [
                 " Ecografía gral adultos y pediateicos Doppler periférico vascular",
@@ -209,7 +209,7 @@
             "registro": "M.P. 10-00016-0",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "Vocación y profesionalismo en el cuidado y bienestar de nuestros pacientes, brindando un óptimo servicio y acompañamiento",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FPrimomo_1920x1280.webp?alt=media&token=888f6b4d-bc7e-4b0e-a6a4-3405d35a131b&_gl=1*rbv4p6*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTU5MC42MC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FPrimomo_1920x1280.webp?alt=media&token=73e65bde-c6d0-4ec5-a4f6-ddd00b69aea3&_gl=1*1bqry2e*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzEwMy4yNS4wLjA.",
             "alt": "Lic. Laura Primomo",
             "servicios": [
                 "Radiografía",
@@ -224,7 +224,7 @@
             "registro": "MP 10-00132-9",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "La medicina es vocación, servicio y dedicación.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FCarolinaBallari_1920x1280.webp?alt=media&token=a58e87f6-792c-490f-af51-6b6ba7d3a7c8&_gl=1*1k5jtfb*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTYyNi4yNC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FCarolinaBallari_1920x1280.webp?alt=media&token=6915cdb2-cbe5-4ed2-bb5b-1bd729d49b57&_gl=1*g9fgmk*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzEzMS42MC4wLjA.",
             "alt": "Lic. Carolina Ballari",
             "servicios": [
                 "Radiografía",
@@ -239,7 +239,7 @@
             "registro": "M.P. N 10- 00123-8",
             "especialidad": "Lic. En Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "Contención, calidez y esperanza junto al paciente",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FAndreaCeva_1920x1280.webp?alt=media&token=eedfc3d6-f1a8-4a9f-9873-76446d1bee2a&_gl=1*erwltm*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTY0My43LjAuMA..",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FAndreaCeva_1920x1280.webp?alt=media&token=a87fa7f9-5624-4a22-8daa-536e0823d7e1&_gl=1*tlbzi5*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzE0Ny40NC4wLjA.",
             "alt": "Lic. Andrea Ceva",
             "servicios": [
                 "Radiografía",
@@ -254,7 +254,7 @@
             "registro": "",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "Compromiso y excelencia en el manejo de imágenes médicas. Priorizamos la seguridad y el bienestar del paciente, ofreciendo un servicio de calidad y un constante apoyo.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/imagenes%20dimeco%2FArevalo_1920x1280.webp?alt=media&token=ce254336-da39-4485-b9f2-90996e601fbb&_gl=1*jkucl4*_ga*MjMyOTI1NzU5LjE2OTU5MzQzODg.*_ga_CW55HF8NVT*MTY5NjUxMzc2MC44LjEuMTY5NjUxOTY3My42MC4wLjA.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FArevalo_1920x1280.webp?alt=media&token=f45cfc06-9aa6-41fe-a73f-b491436c5d78&_gl=1*x2pyi3*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzE2NS4yNi4wLjA.",
             "alt": "Lic. Verónica Arévalo",
             "servicios": [
                 "Radiografía",
