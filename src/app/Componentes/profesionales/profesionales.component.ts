@@ -12,14 +12,19 @@ export class ProfesionalesComponent {
   constructor() {}
 
   ngOnInit(): void {
- 
-    window.addEventListener('scroll', this.checkScroll);
+
+    window.addEventListener('scroll', this.checkScroll, { passive: true });
+
   }
+
+
 
   ngOnDestroy() {
     // Es importante remover el listener cuando el componente ya no está en uso.
-    window.removeEventListener('scroll', this.checkScroll);
+    window.removeEventListener('scroll', this.checkScroll, { passive: true } as any);
+
   }
+
 
   checkScroll = (): void => {
     // Puedes ajustar el valor 100 al número de pixels que prefieras
