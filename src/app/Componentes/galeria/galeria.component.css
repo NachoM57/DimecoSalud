@@ -9,10 +9,6 @@ a {
   cursor: pointer;
 }
 
-.lg-toolbar, .lg-actions {
-  z-index: 9999;
-}
-
 
 .img-wrapper {
   display: inline-block;
@@ -39,7 +35,7 @@ a {
 @media (max-width: 768px) {
   .img-wrapper {
     width: 50%;
-    height: 160px;
+    height: 150px;
     /* 2 imágenes por fila en pantallas pequeñas */
   }
 }
