@@ -7,7 +7,9 @@ img {
     outline: none;
 }
 
-
+.navbar-toggler-icon {
+    margin: 10px;
+}
 
 ul {
     margin: 10px;
