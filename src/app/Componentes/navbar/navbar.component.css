@@ -3,6 +3,23 @@ img {
     height: 120px;
 }
 
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    /* Otros estilos necesarios */
+}
+
+.btn.btn-outline {
+    background-color: rgba(69, 69, 69, 0.631);
+    color: #ffffff;
+    border: 3px solid #83d2a6;
+}
+
+.btn.btn-outline:hover {
+    background-color: #5c7869;
+}
+
 .navbar-toggler:focus {
     outline: none;
 }
@@ -16,14 +33,14 @@ ul {
     gap: 10px;
 }
 
-a {
+.nav-link {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.826);
     font-size: 20px;
 }
 
 
-a:hover {
+.nav-link:hover {
     color: #ffffff;
 }
 
@@ -66,21 +83,29 @@ a:hover {
 }
 
 
-
 nav {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     background-color: transparent !important;
-    /* Agrega !important para asegurarte de que este estilo prevalezca */
     transition: background-color 0.3s ease;
-    z-index: 2;
+    z-index: 3; /* Aumenta este valor para que sea mayor que el de los elementos superpuestos */
 }
+
 
 @media (max-width: 768px) {
     img {
-      width: 200px;
-      height: 80px;
+        width: 200px;
+        height: 80px;
     }
-  }
+}
+
+@media (max-width: 990px) {
+    .navbar-collapse.show {
+        background-color: rgb(38, 38, 38);
+        margin: 0; /* Asegúrate de que no haya márgenes */
+        padding: 0; /* Asegúrate de que no haya padding */
+        width: 100%; /* Esto asegura que tome todo el ancho disponible */
+    }
+}
