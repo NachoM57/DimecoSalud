@@ -9,7 +9,7 @@
             "enlace4": "Información",
             "enlace5": "Galeria",
             "enlace6": "Profesionales",
-            "enlace7": "VISUALIZADOR DE IMAGENES"
+            "enlace7": "VISUALIZADOR DE IMÁGENES"
         }
     ],
     "banner": [
@@ -54,7 +54,7 @@
         {
             "id": 3,
             "titulo": "ECOGRAFÍA",
-            "descripcion": "☑️ Screening del 1er trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️ Ecodoppler color vascular periférico y cardíaco.",
+            "descripcion": "☑️ Screening del 1.º trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️Ecodoppler obstétrico del 1.º, 2.º y 3.º trimestre.\n\n☑️ Ecocardiografia fetal.\n\n☑️ Ecodoppler vascular periférico venoso y arterial.\n\n☑️ Ecodoppler cardiaco.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info3",
             "idd": "info3"
@@ -62,7 +62,7 @@
         {
             "id": 4,
             "titulo": "RADIOLOGÍA",
-            "descripcion": "Proveemos servicios de radiología digital y contrastada para imágenes detalladas y claras.",
+            "descripcion": "Proveemos servicios de radiología digital y contrastada para imágenes detalladas y claras.\n\nRealizamos espineografías de miembros inferiores impresas con mediciones.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info4",
             "idd": "info4"
@@ -96,8 +96,8 @@
             "id": 2,
             "icono": "fa-solid fa-phone",
             "titulo": "Teléfonos",
-            "parrafo1": "(03537) 428594",
-            "parrafo2": "/420158 / 424253"
+            "parrafo1": "(03537) 428594/",
+            "parrafo2": "420158 / 424253"
         },
         {
             "id": 3,
@@ -124,8 +124,8 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FCarasa_1920x1280.webp?alt=media&token=5e9a9461-0ab0-4e3d-93de-769069ee229f&_gl=1*1rdrabh*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjk3NS4xNC4wLjA.",
             "alt": "Dr. Mariano Carasa",
             "servicios": [
-                "Ecocardiografía",
-                "Ecografía Doppler color"
+                "Ecocardiografía Doppler color.",
+                "Ecodoppler de vaso de cuello."
             ]
         },
         {
@@ -137,15 +137,17 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FManuali_1920x1280.webp?alt=media&token=30f10f82-e217-4a16-9b5d-4721bd94a8ab&_gl=1*gw71v6*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjk5Mi42MC4wLjA.",
             "alt": "Dr. Maximiliano Manuali",
             "servicios": [
-                "Ecografías en gral adultos y pediatricos de embarazo 1er 2do y 3er trimestre",
-                "Tn-Hn",
-                "Doppler d arterias uterinas 4 y 5 D",
-                "Ecocardiograma fetal",
-                "Radiografia digital simple y contrastada",
-                "Tomografía",
-                "Punciones",
-                "Mamografia digital",
-                "Espinografia y medición d miembros inferiores"
+                "Ecografías en general adultos y pediatricos.",
+                "Ecografías obstétricas del 1.º, 2.º y 3.º trimestre.",
+                "Screening del 1.º trimestre con Doppler de arterias uterinas.",
+                "TN-HN.",
+                "Ecografías 4-D y 5-D.",
+                "Ecocardiograma fetal.",
+                "Radiografia digital simple y contrastada.",
+                "Tomografía multicorte.",
+                "Punciones.",
+                "Mamografia digital.",
+                "Espinografia y medición de miembros inferiores."
             ]
         },
         {
@@ -157,7 +159,7 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FPenfold_1920x1280.webp?alt=media&token=fd0cf558-37c3-45dc-a227-f696d863127c&_gl=1*1b3027e*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAxNC4zOC4wLjA.",
             "alt": "Imagen Doctor",
             "servicios": [
-                "Densitometría Ósea"
+                "Densitometría Ósea."
             ]
         },
         {
@@ -169,10 +171,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FChipolla_1920x1280.webp?alt=media&token=9f277c0a-0fdc-4461-85d7-5595adf8a115&_gl=1*10duhj1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAzNC4xOC4wLjA.",
             "alt": "Dr Aldo Chipolla",
             "servicios": [
-                "Ecografías obstetricas 1er, 2do y 3er trimestre ",
-                "Ecografías d TN-HN",
-                "Dopler d arterias uterinas 4 y 5D",
-                "ECografia d adultos en gral"
+                "Ecografía obstetricas 1.º, 2.º y 3.º trimestre.",
+                "Ecografía de Screening del 1.º trimestre(TN-HN)",
+                "Doppler obstetrico y ecografía 4-D y 5-D.",
+                "Ecografía de adultos en general."
             ]
         },
         {
@@ -184,10 +186,11 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FBiisonni_1920x1280.webp?alt=media&token=43127b1e-d665-4126-bfa2-1b34a87e4097&_gl=1*1wez81c*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzA2OC42MC4wLjA.",
             "alt": "Dr. Juan Darío Bisonni",
             "servicios": [
-                "Ecografía gral adultos y pediateicos de doppler periférico vascular",
-                "Tomografías",
-                "Radiografía digital",
-                "Espinografia y medición d miembros inferiores"
+                "Ecografía general de adultos y pediatricos.",
+                "Doppler vascular periferico.",
+                "Tomografía multicorte.",
+                "Radiografía digital.",
+                "Espinografía y medición de miembros inferiores."
             ]
         },
         {
@@ -199,9 +202,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FVisintini_1920x1280.webp?alt=media&token=57bd8699-f303-47c3-a471-ac9f0e06866b&_gl=1*hfs1dz*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzA4Ny40MS4wLjA.",
             "alt": "dra. Vanesa Visintini",
             "servicios": [
-                " Ecografía gral adultos y pediateicos Doppler periférico vascular",
-                "Mamografias",
-                "Punciones"
+                "Ecografía general de adultos y pediatricos.",
+                "Doppler vascular periférico.",
+                "Mamografía digital.",
+                "Punciones."
             ]
         },
         {
@@ -213,10 +217,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FPrimomo_1920x1280.webp?alt=media&token=73e65bde-c6d0-4ec5-a4f6-ddd00b69aea3&_gl=1*1bqry2e*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzEwMy4yNS4wLjA.",
             "alt": "Lic. Laura Primomo",
             "servicios": [
-                "Radiografía",
-                "Tomografía",
-                "Densitometría",
-                "Mamografía"
+                "Radiografía.",
+                "Tomografía.",
+                "Densitometría.",
+                "Mamografía digital."
             ]
         },
         {
@@ -228,10 +232,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FCarolinaBallari_1920x1280.webp?alt=media&token=6915cdb2-cbe5-4ed2-bb5b-1bd729d49b57&_gl=1*g9fgmk*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzEzMS42MC4wLjA.",
             "alt": "Lic. Carolina Ballari",
             "servicios": [
-                "Radiografía",
-                "Tomografía",
-                "Densitometría",
-                "Mamografía"
+                "Radiografía.",
+                "Tomografía.",
+                "Densitometría.",
+                "Mamografía digital."
             ]
         },
         {
@@ -243,10 +247,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FAndreaCeva_1920x1280.webp?alt=media&token=a87fa7f9-5624-4a22-8daa-536e0823d7e1&_gl=1*tlbzi5*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzE0Ny40NC4wLjA.",
             "alt": "Lic. Andrea Ceva",
             "servicios": [
-                "Radiografía",
-                "Tomografía",
-                "Densitometría",
-                "Mamografía"
+                "Radiografía.",
+                "Tomografía.",
+                "Densitometría.",
+                "Mamografía digital."
             ]
         },
         {
@@ -258,10 +262,10 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FArevalo_1920x1280.webp?alt=media&token=f45cfc06-9aa6-41fe-a73f-b491436c5d78&_gl=1*x2pyi3*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzE2NS4yNi4wLjA.",
             "alt": "Lic. Verónica Arévalo",
             "servicios": [
-                "Radiografía",
-                "Tomografía",
-                "Densitometría",
-                "Mamografía"
+                "Radiografía.",
+                "Tomografía.",
+                "Densitometría.",
+                "Mamografía digital."
             ]
         }
     ]

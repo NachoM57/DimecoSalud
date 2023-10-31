@@ -11,8 +11,7 @@
 
         <a  *ngFor="let image of images" class="gallery-item"
           [attr.data-src]="image.src" [attr.data-responsive]="image.src">
-          <div class="img-wrapper" data-aos="zoom-in" data-aos-duration="1500"
-          data-aos-delay="100">
+          <div class="img-wrapper">
             <img loading="lazy" class="img-responsive" [src]="image.src" [alt]="image.alt" />
           </div>
         </a>
