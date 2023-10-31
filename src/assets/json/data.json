@@ -7,7 +7,7 @@
             "enlace2": "Nosotros",
             "enlace3": "Servicios",
             "enlace4": "Información",
-            "enlace5": "Galeria",
+            "enlace5": "Galería",
             "enlace6": "Profesionales",
             "enlace7": "VISUALIZADOR DE IMÁGENES"
         }
@@ -22,7 +22,7 @@
     ],
     "redireccion": [
         {
-            "descripcion": "Optimiza tu tiempo y apoya la protección del medio ambiente consultando tus resultados mediante el Visualizador de imagen.",
+            "descripcion": "Optimiza tu tiempo y contribuye a la protección del medio ambiente consultando tus resultados a través de nuestro Visualizador de Imágenes.",
             "direccion": "http://dimecosrl.ddns.net:8181/",
             "boton": "Ver mi Estudio"
         }
@@ -171,7 +171,7 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FChipolla_1920x1280.webp?alt=media&token=9f277c0a-0fdc-4461-85d7-5595adf8a115&_gl=1*10duhj1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAzNC4xOC4wLjA.",
             "alt": "Dr Aldo Chipolla",
             "servicios": [
-                "Ecografía obstetricas 1.º, 2.º y 3.º trimestre.",
+                "Ecografías obstétricas 1.º, 2.º y 3.º trimestre.",
                 "Ecografía de Screening del 1.º trimestre(TN-HN)",
                 "Doppler obstetrico y ecografía 4-D y 5-D.",
                 "Ecografía de adultos en general."
@@ -186,8 +186,8 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FBiisonni_1920x1280.webp?alt=media&token=43127b1e-d665-4126-bfa2-1b34a87e4097&_gl=1*1wez81c*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzA2OC42MC4wLjA.",
             "alt": "Dr. Juan Darío Bisonni",
             "servicios": [
-                "Ecografía general de adultos y pediatricos.",
-                "Doppler vascular periferico.",
+                "Ecografía general de adultos y pediátricos.",
+                "Doppler vascular periférico.",
                 "Tomografía multicorte.",
                 "Radiografía digital.",
                 "Espinografía y medición de miembros inferiores."
@@ -198,11 +198,11 @@
             "titulo": "Dra. Vanesa Visintini",
             "registro": "M.P. 36299 M.E. 19169",
             "especialidad": "Especialista en Diagnóstico por Imágenes",
-            "descripcion": "Arte y ciencia de acompañar con responsabilidad y entrega procurando el mayorestado de bienestar y equilibrio de nuestra sociedad",
+            "descripcion": "Arte y ciencia de acompañar con responsabilidad y entrega procurando el mayor estado de bienestar y equilibrio de nuestra sociedad",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FVisintini_1920x1280.webp?alt=media&token=57bd8699-f303-47c3-a471-ac9f0e06866b&_gl=1*hfs1dz*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzA4Ny40MS4wLjA.",
             "alt": "dra. Vanesa Visintini",
             "servicios": [
-                "Ecografía general de adultos y pediatricos.",
+                "Ecografía general de adultos y pediátricos.",
                 "Doppler vascular periférico.",
                 "Mamografía digital.",
                 "Punciones."
@@ -242,7 +242,7 @@
             "id": 8,
             "titulo": "Lic. Andrea Ceva",
             "registro": "M.P. N 10- 00123-8",
-            "especialidad": "Lic. En Producción de Bioimágenes y Técnicos Radiólogos",
+            "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
             "descripcion": "Contención, calidez y esperanza junto al paciente",
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FAndreaCeva_1920x1280.webp?alt=media&token=a87fa7f9-5624-4a22-8daa-536e0823d7e1&_gl=1*tlbzi5*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzE0Ny40NC4wLjA.",
             "alt": "Lic. Andrea Ceva",
