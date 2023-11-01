@@ -76,13 +76,9 @@
   /* Color boton whatsapp */
   .sharing-whatsapp { background-color: #4FCE5D; }
   
-  @media (max-width: 768px) {
-    .sharing {
-     left: 10px;
-    }
-  }
-  
-  @media (max-width: 1480px) {
+
+
+  @media (max-width: 2000px) {
     .sharing {
      left: 10px;
     }
