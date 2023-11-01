@@ -23,7 +23,7 @@ p {
     letter-spacing: 1px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1399px) {
 
     .imagendimeco,
     .descripcion {
