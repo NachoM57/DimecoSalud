@@ -62,7 +62,7 @@
         {
             "id": 4,
             "titulo": "RADIOLOGÍA",
-            "descripcion": "Proveemos servicios de radiología digital y contrastada para imágenes detalladas y claras.\n\nRealizamos espineografías de miembros inferiores impresas con mediciones.",
+            "descripcion": "Proveemos servicios de radiología digital y contrastada para imágenes detalladas y claras.\n\nRealizamos espinografías y medición de miembros inferiores impresas en soporte radiográfico.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info4",
             "idd": "info4"
@@ -77,7 +77,7 @@
         },
         {
             "id": 6,
-            "titulo": "INTERVENCIONISMO:",
+            "titulo": "INTERVENCIONISMO",
             "descripcion": "☑️ Punción biopsia guiada por ecografía.\n\n☑️ Punción biopsia guiada por T.A.C.\n\n☑️ Marcación pre quirúrgica guiada por ecografía.\n\n☑️ Arponeo mamario bajo control mamográfico pre y post quirúrgico.",
             "icono": "fa-solid fa-arrow-right",
             "target": "#info6",
@@ -117,15 +117,17 @@
     "doctores": [
         {
             "id": 1,
-            "titulo": "Dr. Mariano Carasa",
-            "registro": "M.P. 28709 C.E. 12654",
-            "especialidad": "Especialista en Cardiología",
-            "descripcion": "La medicina para mí es el conjunto de conocimientos adquiridos para un correcto diagnóstico, tratamiento y acompañamiento en la enfermedad y en la prevención de las mismas.",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FCarasa_1920x1280.webp?alt=media&token=5e9a9461-0ab0-4e3d-93de-769069ee229f&_gl=1*1rdrabh*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjk3NS4xNC4wLjA.",
-            "alt": "Dr. Mariano Carasa",
+            "titulo": "Dr Aldo Chipolla",
+            "registro": "M.P. 14455",
+            "especialidad": "Médico cirujano\n\nGinecología\n\nObstetricia\n\nUltrasonografía",
+            "descripcion": "Ginecólogo obstetra y experto en obstetricia mamaria. Su dedicación a la salud de las mujeres durante el embarazo y su enfoque en el diagnóstico y tratamiento de condiciones mamarias lo convierten en un recurso confiable",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FChipolla_1920x1280.webp?alt=media&token=9f277c0a-0fdc-4461-85d7-5595adf8a115&_gl=1*10duhj1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAzNC4xOC4wLjA.",
+            "alt": "Dr Aldo Chipolla",
             "servicios": [
-                "Ecocardiografía Doppler color.",
-                "Ecodoppler de vaso de cuello."
+                "Ecografías obstétricas 1.º, 2.º y 3.º trimestre.",
+                "Ecografía de Screening del 1.º trimestre(TN-HN)",
+                "Doppler obstetrico y ecografía 4-D y 5-D.",
+                "Ecografía de adultos en general."
             ]
         },
         {
@@ -163,21 +165,6 @@
             ]
         },
         {
-            "id": 3,
-            "titulo": "Dr Aldo Chipolla",
-            "registro": "M.P. 14455",
-            "especialidad": "Médico cirujano\n\nGinecología\n\nObstetricia\n\nUltrasonografía",
-            "descripcion": "Ginecólogo obstetra y experto en obstetricia mamaria. Su dedicación a la salud de las mujeres durante el embarazo y su enfoque en el diagnóstico y tratamiento de condiciones mamarias lo convierten en un recurso confiable",
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FChipolla_1920x1280.webp?alt=media&token=9f277c0a-0fdc-4461-85d7-5595adf8a115&_gl=1*10duhj1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNzAzNC4xOC4wLjA.",
-            "alt": "Dr Aldo Chipolla",
-            "servicios": [
-                "Ecografías obstétricas 1.º, 2.º y 3.º trimestre.",
-                "Ecografía de Screening del 1.º trimestre(TN-HN)",
-                "Doppler obstetrico y ecografía 4-D y 5-D.",
-                "Ecografía de adultos en general."
-            ]
-        },
-        {
             "id": 4,
             "titulo": "Dr. Juan Darío Bisonni",
             "registro": "M.P. 29690/2 M.E. 14405",
@@ -210,6 +197,19 @@
         },
         {
             "id": 6,
+            "titulo": "Dr. Mariano Carasa",
+            "registro": "M.P. 28709 C.E. 12654",
+            "especialidad": "Especialista en Cardiología",
+            "descripcion": "La medicina para mí es el conjunto de conocimientos adquiridos para un correcto diagnóstico, tratamiento y acompañamiento en la enfermedad y en la prevención de las mismas.",
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/medicos%2FCarasa_1920x1280.webp?alt=media&token=5e9a9461-0ab0-4e3d-93de-769069ee229f&_gl=1*1rdrabh*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjk3NS4xNC4wLjA.",
+            "alt": "Dr. Mariano Carasa",
+            "servicios": [
+                "Ecocardiografía Doppler color.",
+                "Ecodoppler de vaso de cuello."
+            ]
+        },
+        {
+            "id": 7,
             "titulo": "Lic. Laura Primomo",
             "registro": "M.P. 10-00016-0",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
@@ -224,7 +224,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 8,
             "titulo": "Lic. Carolina Ballari",
             "registro": "MP 10-00132-9",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
@@ -239,7 +239,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": 9,
             "titulo": "Lic. Andrea Ceva",
             "registro": "M.P. N 10- 00123-8",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
@@ -254,7 +254,7 @@
             ]
         },
         {
-            "id": 9,
+            "id": 10,
             "titulo": "Lic. Verónica Arévalo",
             "registro": "",
             "especialidad": "Lic. en Producción de Bioimágenes y Técnicos Radiólogos",
