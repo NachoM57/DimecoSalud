@@ -39,7 +39,6 @@
             "id": 1,
             "titulo": "TOMOGRAFÍA",
             "descripcion": "Nuestro equipo cuenta con tomografía computada multislice volumétrica 3-D y Angiotac para imágenes tridimensionales detalladas.",
-            "icono": "fa-solid fa-arrow-right",
             "target": "#info1",
             "idd": "info1"
         },
@@ -47,7 +46,6 @@
             "id": 2,
             "titulo": "MAMOGRAFÍA",
             "descripcion": "Ofrecemos mamografía digital completa y mamografía digital focalizada y magnificada, utilizando tecnología avanzada para garantizar resultados precisos.",
-            "icono": "fa-solid fa-arrow-right",
             "target": "#info2",
             "idd": "info2"
         },
@@ -55,7 +53,6 @@
             "id": 3,
             "titulo": "ECOGRAFÍA",
             "descripcion": "☑️ Screening del 1.º trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️Ecodoppler obstétrico del 1.º, 2.º y 3.º trimestre.\n\n☑️ Ecocardiografia fetal.\n\n☑️ Ecodoppler vascular periférico venoso y arterial.\n\n☑️ Ecodoppler cardiaco.",
-            "icono": "fa-solid fa-arrow-right",
             "target": "#info3",
             "idd": "info3"
         },
@@ -63,7 +60,6 @@
             "id": 4,
             "titulo": "RADIOLOGÍA",
             "descripcion": "Proveemos servicios de radiología digital y contrastada para imágenes detalladas y claras.\n\nRealizamos espinografías y medición de miembros inferiores impresas en soporte radiográfico.",
-            "icono": "fa-solid fa-arrow-right",
             "target": "#info4",
             "idd": "info4"
         },
@@ -71,7 +67,6 @@
             "id": 5,
             "titulo": "DENSITOMETRÍA ÓSEA",
             "descripcion": "Evaluación precisa de la densidad ósea para una detección temprana y tratamiento de enfermedades óseas.",
-            "icono": "fa-solid fa-arrow-right",
             "target": "#info5",
             "idd": "info5"
         },
@@ -79,7 +74,6 @@
             "id": 6,
             "titulo": "INTERVENCIONISMO",
             "descripcion": "☑️ Punción biopsia guiada por ecografía.\n\n☑️ Punción biopsia guiada por T.A.C.\n\n☑️ Marcación pre quirúrgica guiada por ecografía.\n\n☑️ Arponeo mamario bajo control mamográfico pre y post quirúrgico.",
-            "icono": "fa-solid fa-arrow-right",
             "target": "#info6",
             "idd": "info6"
         }
