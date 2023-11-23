@@ -34,7 +34,7 @@ span {
   color: #000000;
   background: #83d2a6;
   border: 1px solid rgb(0, 0, 0);
-  box-shadow: 0.1rem 0.1rem 1.5rem rgba(0, 0, 0, 0.2);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .btn-get-started:hover {

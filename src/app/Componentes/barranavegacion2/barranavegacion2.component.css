@@ -7,6 +7,16 @@ img {
     outline: none;
 }
 
+.btn.btn-outline {
+    background-color: rgba(69, 69, 69, 0.631);
+    color: #ffffff;
+    border: 3px solid #83d2a6;
+}
+
+.btn.btn-outline:hover {
+    background-color: #5c7869;
+}
+
 
 ul {
     margin: 10px;
