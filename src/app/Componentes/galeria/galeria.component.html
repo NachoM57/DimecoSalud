@@ -9,7 +9,7 @@
     <div class="row">
       <lightgallery [settings]="settings" [onBeforeSlide]="onBeforeSlide">
 
-        <a  *ngFor="let image of images" class="gallery-item"
+        <a  *ngFor="let image of images" class="gallery-item" href="{{ image.src }}"
           [attr.data-src]="image.src" [attr.data-responsive]="image.src">
           <div class="img-wrapper">
             <img loading="lazy" class="img-responsive" [src]="image.src" [alt]="image.alt" />
