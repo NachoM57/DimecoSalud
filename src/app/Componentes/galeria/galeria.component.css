@@ -12,8 +12,8 @@ a {
 
 .img-wrapper {
   display: inline-block;
-  width: 300px;
-  height: 220px;
+  width: 230px;
+  height: 180px;
   /* 3 imágenes por fila en pantallas grandes */
   padding: 10px;
   box-sizing: border-box;
@@ -35,7 +35,7 @@ a {
 @media (max-width: 768px) {
   .img-wrapper {
     width: 50%;
-    height: 150px;
+    height: 120px;
     /* 2 imágenes por fila en pantallas pequeñas */
   }
 }
