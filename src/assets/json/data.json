@@ -17,12 +17,12 @@
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/pagina%20principal%2FAparato2_1920x1280.webp?alt=media&token=f7bb7b75-e273-40f5-bf78-cdd4c5d8650a&_gl=1*1p4y691*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjE0NC4xNC4wLjA.",
             "alt": "Banner",
             "titulo": "Bienvenidos a ",
-            "titulo2": "En Dimeco Salud, fusionamos tecnología, profesionalidad y abordaje personalizado para ofrecer un servicio integral a cada paciente. Disponemos de un equipo conformado por médicos especialistas en diagnóstico por imágenes, cardiología y endocrinologia. Para su asistencia en cada estudio, contamos con licenciados en bioimagenes y personal administrativo dispuesto a canalizar sus dudas. Su salud y bienestar son nuestra prioridad."
+            "titulo2": "En Dimeco Salud, fusionamos tecnología, profesionalidad y abordaje personalizado para ofrecer un servicio integral a cada paciente. Disponemos de un equipo conformado por médicos especialistas en diagnóstico por imágenes, cardiología y endocrinología. Para su asistencia en cada estudio, contamos con licenciados en bioimagenes y personal administrativo dispuesto a canalizar tus dudas. Tu salud y bienestar son nuestra prioridad."
         }
     ],
     "redireccion": [
         {
-            "descripcion": "Optimiza tu tiempo y contribuye a la protección del medio ambiente consultando tus resultados a través de nuestro Visualizador de Imágenes.",
+            "descripcion": "Optimizá tu tiempo y contribuye a la protección del medio ambiente consultando tus resultados a través de nuestro Visualizador de Imágenes.",
             "direccion": "http://dimecosrl.ddns.net:8181/",
             "boton": "Ver mi Estudio"
         }
@@ -31,7 +31,7 @@
         {
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/pagina%20principal%2FTomografo_1920x1280.webp?alt=media&token=15fce65f-a73d-4923-a130-e0520767b880&_gl=1*wb5ym1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjE3NC41NS4wLjA.",
             "alt": "Imagen de dimeco Salud",
-            "descripcion": "Dimeco Salud es una institución dedicada al diagnóstico por imágenes. Siendo referente en Bell Ville y la región, se destaca por la profesionalidad y confianza que ofrece su grupo de profesionales médicos dedicados a brindar diagnóstico y atención personalizada."
+            "descripcion": "Somos una institución de salud dedicada al diagnóstico por imágenes. Siendo referente en Bell Ville y la región, se destaca por la profesionalidad y confianza que ofrece su grupo de profesionales médicos dedicados a brindar diagnóstico y atención personalizada."
         }
     ],
     "servicios": [
@@ -106,6 +106,12 @@
             "titulo": "Horarios",
             "parrafo1": "Lunes a Viernes:",
             "parrafo2": "8:00 a 13:00 hs. 16:00 a 20:30 hs."
+        }
+    ],
+    "noticias": [
+        {
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2FDia%20del%20medico%20Dimeco.mp4?alt=media&token=18dff294-f5ae-4e38-a3b4-bc74667f04e0",
+            "descripcion": "3 DE DICIEMBRE | Día del médico\n\n Cada diagnóstico, una victoria. Cada tratamiento, esperanza.\n\n ¡Feliz Día del Médico a quienes hacen posible la salud y el bienestar!"
         }
     ],
     "doctores": [

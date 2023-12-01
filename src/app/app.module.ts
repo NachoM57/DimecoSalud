@@ -18,6 +18,7 @@ import { ProfesionalesComponent } from './Componentes/profesionales/profesionale
 import { Barranavegacion2Component } from './Componentes/barranavegacion2/barranavegacion2.component';
 import { BannerprofesionalesComponent } from './Componentes/bannerprofesionales/bannerprofesionales.component';
 import { DoctoresCardComponent } from './Componentes/doctores-card/doctores-card.component';
+import { NoticiasComponent } from './Componentes/noticias/noticias.component';
 
 
 
@@ -37,6 +38,7 @@ import { DoctoresCardComponent } from './Componentes/doctores-card/doctores-card
     Barranavegacion2Component,
     BannerprofesionalesComponent,
     DoctoresCardComponent,
+    NoticiasComponent,
   ],
   imports: [
     BrowserModule,

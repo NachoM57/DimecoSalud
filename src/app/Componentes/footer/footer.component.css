@@ -1,3 +1,7 @@
+#footerr {
+  margin-top: 100px;
+}
+
 .cuerpo {
   margin-bottom: 100px;
 }
@@ -101,4 +105,13 @@
 
 .text-uppercase {
  font-size: 18px;
+}
+
+
+.Copyright a {
+  color: #3b87ad;
+}
+
+.Copyright a:hover {
+  color: #176b95;
 }

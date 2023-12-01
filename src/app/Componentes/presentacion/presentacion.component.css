@@ -1,9 +1,7 @@
-img {
-    border: 1px solid #21D192;
-    width: 400px;
-    height: 280px;
-    border-radius: 10px;
+#nosotros {
+    margin-top: 100px;
 }
+
 
 
 h1 {
@@ -14,8 +12,8 @@ h1 {
     display: flex; 
     justify-content: center;
     align-items: center;
-    padding: 20px;
-    border: 1px solid #21D192;
+    padding: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 
