@@ -52,7 +52,7 @@
         {
             "id": 3,
             "titulo": "ECOGRAFÍA",
-            "descripcion": "☑️ Screening del 1.º trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️Ecodoppler obstétrico del 1.º, 2.º y 3.º trimestre.\n\n☑️ Ecocardiografia fetal.\n\n☑️ Ecodoppler vascular periférico venoso y arterial.\n\n☑️ Ecodoppler cardiaco.",
+            "descripcion": "☑️ Screening del 1.º trimestre de embarazo con pruebas bioquímicas y ultrasonido.\n\n☑️ Ecografía general bidimensional para adultos y pediátricos.\n\n☑️ Ecografía obstétrica bidimensional, 4-D y 5-D.\n\n☑️ Ecodoppler obstétrico del 1.º, 2.º y 3.º trimestre.\n\n☑️ Ecocardiografía fetal.\n\n☑️ Ecodoppler vascular periférico venoso y arterial.\n\n☑️ Ecodoppler cardiaco.",
             "target": "#info3",
             "idd": "info3"
         },
