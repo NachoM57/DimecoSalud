@@ -11,7 +11,7 @@
                             <i class={{info.icono}}></i>
                             <h3>{{info.titulo}}</h3>
                             <p>{{info.parrafo1}}</p>
-                            <p>{{info.parrafo2}}</p>
+                            <p [innerHTML]="transformToHtmlBreaks(info.parrafo2)">{{info.parrafo2}}</p>
                         </div>
                     </div>
                 </div>

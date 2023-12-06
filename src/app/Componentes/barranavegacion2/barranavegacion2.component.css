@@ -39,14 +39,16 @@ a:hover {
 .navbar-toggler:active,
 .navbar-toggler:focus {
     outline: none;
-    box-shadow: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 
 .navbar-toggler {
+    margin: 10px;
     text-decoration: none;
     border: none;
     outline: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 

@@ -22,4 +22,8 @@ export class InformacionComponent implements OnInit {
     })
 
   }
+  
+  transformToHtmlBreaks(text: string): string {
+    return text.replace(/\n\n/g, '<br>');
+  }
 }
