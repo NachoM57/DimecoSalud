@@ -39,7 +39,7 @@ a {
 @media (max-width: 768px) {
   .img-wrapper {
     width: 50%;
-    height: 120px;
+    height: 15%;
     /* 2 imágenes por fila en pantallas pequeñas */
   }
 }
