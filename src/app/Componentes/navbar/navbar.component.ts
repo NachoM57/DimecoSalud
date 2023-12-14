@@ -10,6 +10,7 @@ export class NavbarComponent implements OnInit {
   navbar: any = []
 
 
+
   constructor(private dataService: DataService) {
   }
 
@@ -30,6 +31,5 @@ export class NavbarComponent implements OnInit {
       element.scrollIntoView({ behavior: 'smooth' });
     }
   }
-
 
 }

@@ -17,18 +17,7 @@
     background-color: #000000;
   }
   
-  @media (max-width: 768px) {
-    .scroll-to-top {
-     right: 90px;
-    }
-  }
-  
-  @media (max-width: 1480px) {
-    .scroll-to-top {
-     right: 80px;
-    }
-  }
-  
+
 
 
 

@@ -36,7 +36,7 @@ ul {
 .nav-link {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.826);
-    font-size: 20px;
+    font-size: 18px;
 }
 
 
@@ -55,6 +55,7 @@ ul {
 .navbar-toggler {
     margin: 10px;
     background-color: #75c5ed;
+    padding: 5px;
     text-decoration: none;
     border: none;
     outline: none;
@@ -110,3 +111,5 @@ nav {
         background-color: rgb(38, 38, 38);
     }
 }
+
+
