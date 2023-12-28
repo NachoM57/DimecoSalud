@@ -34,6 +34,6 @@ export class NoticiasComponent implements OnInit {
     formattedText = formattedText.replace(/(3 DE DICIEMBRE \| Día del médico)/, '<strong>$1</strong>');
 
     return formattedText;
-}
+  }
 
 }

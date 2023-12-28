@@ -104,14 +104,19 @@
 
 
 .text-uppercase {
- font-size: 18px;
+  font-size: 18px;
 }
 
 
+.Copyright {
+  background-color: #589abb;
+  color: #ffffff;
+}
+
 .Copyright a {
-  color: #3b87ad;
+  color: #ffffff;
 }
 
 .Copyright a:hover {
-  color: #176b95;
+  color: #b2e7ff;
 }

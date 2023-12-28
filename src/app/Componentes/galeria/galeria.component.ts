@@ -68,8 +68,8 @@ export class GaleriaComponent {
     counter: false,
     plugins: [lgZoom],
     download: false,
-    controls: true, 
-    showCloseIcon: true, 
+    controls: true,
+    showCloseIcon: true,
 
   };
 

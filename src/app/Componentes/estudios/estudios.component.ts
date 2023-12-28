@@ -10,7 +10,7 @@ export class EstudiosComponent implements OnInit {
   servicios: any = [];
 
 
-  constructor(private dataService: DataService) {}
+  constructor(private dataService: DataService) { }
 
   ngOnInit(): void {
     // Esto es para almacenar en la variable de instancia los datos recuperados por el servicio

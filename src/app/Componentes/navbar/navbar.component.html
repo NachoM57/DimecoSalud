@@ -1,5 +1,5 @@
 <section id="navbar">
-    <nav  class="navbar navbar-expand-lg bg-body-tertiary" *ngFor="let nav of  navbar">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" *ngFor="let nav of  navbar">
         <div class="container-fluid justify-content-between">
             <img src={{nav.imagen}} alt={{nav.alt}}>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -12,7 +12,8 @@
                         <a class="nav-link" href="nosotros" (click)="navigateTo($event,'nosotros')">{{nav.enlace2}}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="servicios" (click)="navigateTo($event,'servicios')">{{nav.enlace3}}</a>
+                        <a class="nav-link" href="servicios"
+                            (click)="navigateTo($event,'servicios')">{{nav.enlace3}}</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact" (click)="navigateTo($event,'contact')">{{nav.enlace4}}</a>
@@ -24,7 +25,8 @@
                         <a class="nav-link" href="/profesionales" routerLink="/profesionales">{{nav.enlace6}}</a>
                     </li>
                     <li class="nav-item">
-                        <a href="http://dimecosrl.ddns.net:8181/" target="_blank" rel="noopener noreferrer" class="botonmenu"><button type="button" class="btn btn-outline" >{{nav.enlace7}}</button></a>
+                        <a href="http://dimecosrl.ddns.net:8181/" target="_blank" rel="noopener noreferrer"
+                            class="botonmenu"><button type="button" class="btn btn-outline">{{nav.enlace7}}</button></a>
                     </li>
                 </ul>
             </div>

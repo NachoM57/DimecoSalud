@@ -9,7 +9,7 @@ export class ProfesionalesComponent {
 
   showScrollToTopButton = false;
 
-  constructor() {}
+  constructor() { }
 
   ngOnInit(): void {
 

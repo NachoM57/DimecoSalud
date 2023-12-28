@@ -1,76 +1,78 @@
-
 .scroll-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #000; /* o cualquier otro color que prefieras */
-    color: #fff; /* color del icono */
-    border: none;
-    border-radius: 50%;
-    padding: 10px 15px;
-    cursor: pointer;
-    z-index: 1000;
-  }
-  
-  
-  .scroll-to-top:active {
-    background-color: #000000;
-  }
-  
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #000;
+  /* o cualquier otro color que prefieras */
+  color: #fff;
+  /* color del icono */
+  border: none;
+  border-radius: 50%;
+  padding: 10px 15px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+
+.scroll-to-top:active {
+  background-color: #000000;
+}
+
 
 
 
 
 /*boton whatsapp*/
+.sharing {
+  position: fixed;
+  z-index: 1000;
+  bottom: 20px;
+  right: 1450px;
+  cursor: pointer;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.sharing-item {
+  transition: background 0.3s, color 0.3s;
+  color: #fff;
+  background-color: #000;
+  padding: 0.875rem;
+  border-radius: 50%;
+  box-shadow: 2px 2px 3px #999;
+}
+
+.sharing-item .i {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  transition: transform 0.3s;
+  stroke-width: 2;
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+.sharing-item:hover {
+  background-color: #5fdb54;
+  color: #000;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.sharing-item:hover .i {
+  transform: rotate(360deg);
+}
+
+/* Color boton whatsapp */
+.sharing-whatsapp {
+  background-color: #4FCE5D;
+}
+
+
+
+@media (max-width: 2000px) {
   .sharing {
-    position: fixed;
-    z-index: 1000; 
-    bottom: 20px;
-    right: 1450px;
-    cursor: pointer;
-    display: flex;
-    gap: 0.5rem;
+    left: 10px;
   }
-  
-  .sharing-item {
-    transition: background 0.3s, color 0.3s;
-    color: #fff;
-    background-color: #000;
-    padding: 0.875rem;
-    border-radius: 50%; 
-    box-shadow: 2px 2px 3px #999;
-  }
-  
-  .sharing-item .i {
-    stroke: currentColor;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    fill: none;
-    transition: transform 0.3s;
-    stroke-width: 2;
-    width: 22px; 
-    height: 22px; 
-    display: block;
-  }
-  
-  .sharing-item:hover {
-    background-color: #5fdb54;
-    color: #000; 
-    box-shadow: 2px 2px 4px #000000; 
-  }
-  
-  .sharing-item:hover .i {
-    transform: rotate(360deg);
-  }
-  
-  /* Color boton whatsapp */
-  .sharing-whatsapp { background-color: #4FCE5D; }
-  
-
-
-  @media (max-width: 2000px) {
-    .sharing {
-     left: 10px;
-    }
-  }
-  
+}

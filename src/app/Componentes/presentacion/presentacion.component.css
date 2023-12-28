@@ -9,7 +9,7 @@ h1 {
 }
 
 .descripcion {
-    display: flex; 
+    display: flex;
     justify-content: center;
     align-items: center;
     padding: 40px;
@@ -43,8 +43,8 @@ p {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #000; /* o cualquier color que desees */
+    background-color: #000;
+    /* o cualquier color que desees */
     color: #fff;
     z-index: 1000;
-  }
-  
+}

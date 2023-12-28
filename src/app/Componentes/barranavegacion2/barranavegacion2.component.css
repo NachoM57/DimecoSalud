@@ -93,8 +93,6 @@ nav {
 
 @media (max-width:767px) {
     nav {
-      max-width: 100%;
+        max-width: 100%;
     }
-  }
-  
-
+}
