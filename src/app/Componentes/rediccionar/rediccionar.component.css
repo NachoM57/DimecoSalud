@@ -33,7 +33,7 @@ span {
   margin: 10px 0 0 0;
   color: #000000;
   background: #83d2a6;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid rgba(0, 0, 0, 0.409);
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 

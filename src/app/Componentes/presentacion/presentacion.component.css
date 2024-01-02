@@ -3,39 +3,41 @@
 }
 
 
-
 h1 {
     margin-bottom: 70px;
 }
+
 
 .descripcion {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px;
+    padding: 70px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 
+@media (max-width: 490px) {
+
+    .descripcion {
+    padding: 20px;
+    }
+
+}
+
+
 
 p {
-    letter-spacing: 1px;
+    letter-spacing: 0.8px;
 }
 
 @media (max-width: 1399px) {
 
-    .imagendimeco,
     .descripcion {
         margin-bottom: 20px;
         /* Ajusta el valor según lo que necesites */
     }
 
-    img {
-        width: 100%;
-        /* para que la imagen sea responsive y se ajuste al contenedor */
-        max-width: 400px;
-        /* para que no sobrepase el tamaño original de 400px */
-    }
 }
 
 

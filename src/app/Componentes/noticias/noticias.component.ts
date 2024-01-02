@@ -31,7 +31,7 @@ export class NoticiasComponent implements OnInit {
 
     // Luego, utiliza una expresión regular para encontrar y envolver en <strong>
     // la parte del texto que quieres en negrita.
-    formattedText = formattedText.replace(/(3 DE DICIEMBRE \| Día del médico)/, '<strong>$1</strong>');
+    formattedText = formattedText.replace(/(Dimeco Salud, Profesionalismo y compromiso al servicio del diagnóstico.)/, '<strong>$1</strong>');
 
     return formattedText;
   }

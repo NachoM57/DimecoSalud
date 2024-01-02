@@ -24,4 +24,15 @@ export class PresentacionComponent implements OnInit {
   }
 
 
+  transformToHtmlBreaks(text: string): string {
+    // Primero, reemplaza los saltos de línea con <br>
+    let formattedText = text.replace(/\n\n/g, '<br>');
+
+    // Luego, utiliza una expresión regular para encontrar y envolver en <strong>
+    // la parte del texto que quieres en negrita.
+    formattedText = formattedText.replace(/(Somos una institución de salud dedicada al diagnóstico por imágenes.)/, '<strong>$1</strong>');
+
+    return formattedText;
+  }
+
 }
