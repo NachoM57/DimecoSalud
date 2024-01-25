@@ -1,35 +1,33 @@
-<section id="navbar">
-    <nav class="navbar navbar-expand-lg bg-body-tertiary" *ngFor="let nav of  navbar">
-        <div class="container-fluid justify-content-between">
-            <img src={{nav.imagen}} alt={{nav.alt}}>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto text-center">
-                    <li class="nav-item">
-                        <a class="nav-link" href="nosotros" (click)="navigateTo($event,'nosotros')">{{nav.enlace2}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="servicios"
-                            (click)="navigateTo($event,'servicios')">{{nav.enlace3}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact" (click)="navigateTo($event,'contact')">{{nav.enlace4}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="galeria" (click)="navigateTo($event,'galeria')">{{nav.enlace5}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/profesionales" routerLink="/profesionales">{{nav.enlace6}}</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="http://dimecosrl.ddns.net:8181/" target="_blank" rel="noopener noreferrer"
-                            class="botonmenu"><button type="button" class="btn btn-outline">{{nav.enlace7}}</button></a>
-                    </li>
-                </ul>
-            </div>
+<header>
+  <div class="container">
+    <div class="row" *ngFor="let nav of navbar">
+      <div class="col-md-2 col-sm-2 col-2">
+        <div class="logo">
+          <img src={{nav.imagen}} class="logo" alt={{nav.alt}}>
         </div>
-    </nav>
-</section>
+      </div>
+      <div class="col-md-10 col-sm-10 col-10 text-end">
+        <div class="menu-icon" (click)="openMenu()">
+          <i class="{{menu_icon}}"></i>
+        </div>
+        <div class="desktop_menu" [class.mobile_menu]="menuValue">
+          <ul>
+            <li class="menu-pointer" href="nosotros" (click)="navigateTo($event,'nosotros')">{{nav.enlace2}}
+            </li>
+            <li class="menu-pointer" href="servicios" (click)="navigateTo($event,'servicios')">{{nav.enlace3}}
+            </li>
+            <li class="menu-pointer" href="contact" (click)="navigateTo($event,'contact')">{{nav.enlace4}}
+            </li>
+            <li class="menu-pointer" href="galeria" (click)="navigateTo($event,'galeria')">{{nav.enlace5}}
+            </li>
+            <li class="menu-pointer" href="/profesionales" routerLink="/profesionales">{{nav.enlace6}}
+            </li>
+            <li><a href="http://dimecosrl.ddns.net:8181/" target="_blank" rel="noopener noreferrer"
+              class="botonmenu"><button type="button" class="btn btn-outline">{{nav.enlace7}}</button></a> 
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</header><!-- End Header -->

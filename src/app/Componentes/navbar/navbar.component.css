@@ -1,14 +1,82 @@
-img {
-    width: 300px;
-    height: 120px;
-}
+header {
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.176);
+    background-color: rgba(255, 255, 255, 0.763);
+  }
+  
+  .logo {
+    width: 250px;
+  }
+  
+  .logo:hover {
+    cursor: pointer;
+  }
+  
+  .desktop_menu {
+    margin-top: 25px;
+  }
+  
+  .desktop_menu ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .desktop_menu ul li {
+    list-style-type: none;
+    color: rgba(0, 0, 0, 0.788);
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  
+  .desktop_menu ul li:hover {
+    color: rgb(0, 0, 0);
+  }
+  
+  .menu-icon {
+    display: none;
+  }
+  
+  @media screen and (min-width: 128px) and (max-width: 1270px) {
+    header {
+      padding: 10px;
+    }
+  
+   
+    .desktop_menu {
+      position: fixed !important;
+      right: -500px;
+      transition: 0.4s ease-in-out;
+      top: 85px;
+      background-color: #ffffff;
+      width: 100%;
+      height: 100%;
+      z-index: 4;
+      border-top: 2px solid rgb(0, 0, 0);
+    }
+  
+    .desktop_menu ul li {
+      display: block;
+      text-align: center;
+      margin: 0;
+      padding: 10px 0 10px 0;
+      border-bottom: 1px solid rgb(128, 128, 128);
+    }
+  
+    .menu-icon {
+        margin-top: 20px;
+      display: block;
+      color: rgb(41, 41, 41);
+      font-size: 40px;
+    }
+  
+    .mobile_menu {
+      right: 0;
+      transition: 0.4s ease-in-out;
+    }
+  }
 
-
-.container-fluid {
-    padding-right: 0;
-    padding-left: 0;
-    /* Otros estilos necesarios */
-}
 
 .btn.btn-outline {
     background-color: rgba(69, 69, 69, 0.631);
@@ -20,94 +88,39 @@ img {
     background-color: #5c7869;
 }
 
-.navbar-toggler:focus {
-    outline: none;
-}
 
-.navbar-toggler-icon {
-    margin: 10px;
-}
-
-ul {
-    margin: 10px;
-    gap: 10px;
-}
-
-.nav-link {
+.menu-pointer {
     text-decoration: none;
-    color: rgba(255, 255, 255, 0.826);
+    color: rgba(0, 0, 0, 0.826);
     font-size: 18px;
 }
 
 
-.nav-link:hover {
-    color: #ffffff;
-}
-
-
-.navbar-toggler:active,
-.navbar-toggler:focus {
-    outline: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-
-.navbar-toggler {
-    margin: 10px;
-    background-color: #75c5ed;
-    padding: 5px;
-    text-decoration: none;
-    border: none;
-    outline: none;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+.menu-pointer:hover {
+    color: #000000;
 }
 
 
 
-.navbar-nav .nav-link {
+.menu-pointer {
     position: relative;
     text-decoration: none;
 }
 
 
-.navbar-nav .nav-link::before {
+.menu-pointer::before {
     content: "";
     position: absolute;
     bottom: 0;
     left: 50%;
     width: 0;
     height: 2px;
-    background-color: #ffffff;
+    background-color: #000000;
     transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
 }
 
-.navbar-nav .nav-link:hover::before {
+.menu-pointer:hover::before {
     width: 100%;
     left: 0;
 }
 
-
-nav {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-color: transparent !important;
-    transition: background-color 0.3s ease;
-    z-index: 3;
-    /* Aumenta este valor para que sea mayor que el de los elementos superpuestos */
-}
-
-
-@media (max-width: 768px) {
-    img {
-        width: 200px;
-        height: 80px;
-    }
-}
-
-@media (max-width: 990px) {
-    .navbar-collapse.show {
-        background-color: rgb(38, 38, 38);
-    }
-}
