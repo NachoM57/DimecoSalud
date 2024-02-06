@@ -24,7 +24,6 @@ a {
 }
 
 .img-responsive {
-  border-radius: 10px;
   width: 100%;
   height: 100%;
   /* Se adapta al tamaño de su contenedor */

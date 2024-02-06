@@ -31,6 +31,7 @@
 }
 
 .titulosub {
+  font-weight: bold;
   margin: 10px;
   color: rgb(39, 39, 39);
   cursor: pointer;
@@ -43,8 +44,11 @@
   transition: transform 0.3s ease;
 }
 
-.titulosub {
-  font-weight: bold;
+
+.titulosub:hover {
+  transform: scale(1.05);
+  /* Aumenta el tamaño del texto en un 20% */
+  color: rgb(0, 0, 0);
 }
 
 
@@ -53,8 +57,3 @@
 }
 
 
-.titulosub:hover {
-  transform: scale(1.05);
-  /* Aumenta el tamaño del texto en un 20% */
-  color: rgb(0, 0, 0);
-}

@@ -3,7 +3,7 @@
     <h1 class="text-center">Noticias</h1>
     <div class="row" *ngFor="let noticia of noticias">
       <video class="col-lg-7" width="800" height="600" [autoplay]="true" [muted]="true" [loop]="true">
-        <source src={{noticia.imagen}} type="video/mp4">
+        <source src={{noticia.imagen}} type="video/mp4" loading="lazy">
       </video>
       <p class="texto col-lg-5" [innerHTML]="transformToHtmlBreaks(noticia.descripcion)">{{noticia.descripcion}}</p>
     </div>
