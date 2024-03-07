@@ -31,7 +31,7 @@
         {
             "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/pagina%20principal%2FTomografo_1920x1280.webp?alt=media&token=15fce65f-a73d-4923-a130-e0520767b880&_gl=1*wb5ym1*_ga*MjU2MDY3OTk2LjE2OTc5MTUxNjc.*_ga_CW55HF8NVT*MTY5NzkxNTE2Ny4xLjEuMTY5NzkxNjE3NC41NS4wLjA.",
             "alt": "Imagen de dimeco Salud",
-            "descripcion": "Somos una institución de salud dedicada al diagnóstico por imágenes.\n\nSiendo referente en Bell Ville y la región, se destaca por la profesionalidad y confianza que ofrece su grupo de profesionales médicos dedicados a brindar diagnóstico y atención personalizada."
+            "descripcion": "Somos una institución de salud dedicada al diagnóstico por imágenes.\n\n\n\nSiendo referente en Bell Ville y la región, se destaca por la profesionalidad y confianza que ofrece su grupo de profesionales médicos dedicados a brindar diagnóstico y atención personalizada."
         }
     ],
     "servicios": [
@@ -110,8 +110,8 @@
     ],
     "noticias": [
         {
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2Fviideodimecosalud.mp4?alt=media&token=b45b2578-ee2e-4d21-a8ce-e31abf362f8a",
-            "descripcion": "Dimeco Salud, Profesionalismo y compromiso al servicio del diagnóstico.\n\nConocé las Obras Sociales con las que trabajamos!.."
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2Fvideo2dimeco(1).mp4?alt=media&token=f31bced6-4295-4670-9d3e-f968776f2645",
+            "descripcion": "Dimeco Salud, Profesionalismo y compromiso al servicio del diagnóstico.\n\nNuestro nuevo tomógrafo  cuenta con tecnología premium desarrollada  de alta gama. Máximo confort del paciente. Experiencia de escaneo superior  Menor dosis, mejores imágenes Accesibilidad universalTecnolog."
         }
     ],
     "doctores": [
