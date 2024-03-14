@@ -2,6 +2,8 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule } from '@angular/common/http';
 import { LightgalleryModule } from 'lightgallery/angular';
+import { HTTP_INTERCEPTORS } from '@angular/common/http';
+import { CacheInterceptor } from '../../cache.interceptor';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -46,7 +48,13 @@ import { NoticiasComponent } from './Componentes/noticias/noticias.component';
     HttpClientModule,
     [LightgalleryModule],
   ],
-  providers: [],
+  providers: [
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: CacheInterceptor,
+      multi: true
+    }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
