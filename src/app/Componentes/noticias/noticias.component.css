@@ -8,9 +8,35 @@
     align-items: center;
 }
 
+h5{
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 20px;
+    padding: 10px;
+    line-height: 30px;
+    color: #3d84b2;
+    font-weight: 400;
+    letter-spacing: -1px;
+    text-align: left;
+    vertical-align: middle;
+  }
 
 .texto.col-lg-5 {
     padding: 40px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin-top: 20px;
 }
+
+.imghorarios {
+    width: 400px !important;
+    height: 700px;
+  }
+  
+  
+  strong {
+    color: #3d84b2;
+  }
+  
+  
+  
+  
