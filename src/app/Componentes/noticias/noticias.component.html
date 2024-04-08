@@ -5,22 +5,8 @@
       <video class="col-lg-7" width="800" height="600" [autoplay]="true" [muted]="true" [loop]="true">
         <source src={{noticia.imagen}} type="video/mp4" loading="lazy">
       </video>
-      <p class="texto col-lg-5 text-center" [innerHTML]="transformToHtmlBreaks(noticia.descripcion)">{{noticia.descripcion}}</p>
+      <p class="texto col-lg-5 text-center" [innerHTML]="transformToHtmlBreaks(noticia.descripcion)">
+        {{noticia.descripcion}}</p>
     </div>
-<br>
-    <div class="row align-items-center">
-      <div class="col-12 col-md-6 img-column text-center">
-          <img src="https://firebasestorage.googleapis.com/v0/b/asistir-bellville.appspot.com/o/Stock%2FhorariosFinde.jpeg?alt=media&token=82c0a8cc-ceac-4e4e-b13c-e93f2c778cb1"
-              class="img-fluid imghorarios w-100" alt="Imagen horarios">
-      </div>
-      <div class="col-12 col-md-6 content">
-          <br>
-          <h5>Horarios fin de semana largo.</h5>
-          <p><strong>DIMECO SALUD:</strong> Jueves 28, <b>abierto</b> horario corrido de 8:00 a
-              16:00hs.<br>
-              Viernes 29 - Lunes 1 - Martes 2, <b>Cerrado.</b><br>
-              WhatsApp: 3537-660207.</p>
-      </div>
-  </div>
   </div>
 </section>
