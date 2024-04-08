@@ -2,7 +2,7 @@
   <h1 class="text-center">Galería</h1>
   <div class="container d-flex justify-content-center align-items-center col-lg-8">
     <div class="row">
-      <lightgallery [settings]="settings" [onBeforeSlide]="onBeforeSlide">
+      <lightgallery class="galeriadeimagenes" [settings]="settings" [onBeforeSlide]="onBeforeSlide">
 
         <a *ngFor="let image of images" class="gallery-item" href="{{ image.src }}" [attr.data-src]="image.src"
           [attr.data-responsive]="image.src">
