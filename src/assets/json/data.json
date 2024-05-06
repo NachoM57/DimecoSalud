@@ -109,13 +109,13 @@
     "noticias": [
         {
             "id": 1,
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2Fdolor%20.mp4?alt=media&token=7066e668-a4d9-41ba-9ad3-6b2e6c929173",
-            "descripcion": "¡No ignores las señales de dolor!\n\n\n\n Prioriza tu salud y no te automediques. Nuestro equipo médico está aquí para ayudarte y brindarte el cuidado que necesitás. No dudes en programar una consulta si estás experimentando cualquier tipo de malestar o dolor.\n\n\n\n <strong>✔ Solicitá turno acá</strong>\n\n 📲3537-660207 | ☎️03537 - 420158/428594"
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2FServicios.mp4?alt=media&token=c985f732-2dd8-4e72-8634-7b94d195d023",
+            "descripcion": "¿Sabías que en Dimeco ofrecemos una amplia gama de estudios médicos?\n\n👉🏽 <strong>Conocé todos Nuestros Servicios</strong>\n\n ✔️ Mamografía digital completa\n\n ✔️ Mamografía digital focalizada y magnificada\n\n ✔️ Radiología digital y contrastada\n\n ✔️ Densitometría ósea\n\n ✔️ Tomografía computada multislice volumétrica 3-D y Angiotac\n\n ✔️ Screening 1° trimestre de embarazo con valoración bioquímica, translucencia nucal y doppler de arterias uterinas.\n\n ✔️ Ecografía general bidimensional Adulto y Pediátrico\n\n ✔️ Ecografía obstétrica bidimensional, 4-D y 5-D\n\n ✔️ Ecodoppler color vascular periférico\n\n ✔️ Ecografía y Ecodoppler color cardíaco\n\n ✔️ Espinografía y medición de miembros inferiores\n\n 👉🏽 <strong>Intervencionismo:</strong>\n\n ☑️ Punción biopsia guiada por ecografía\n\n ☑️ Punción biopsia guiada por T.A.C.\n\n ☑️ Marcación pre quirúrgica guiada por ecografía\n\n ☑️ Arponeo mamario bajo control mamográfico pre y post quirúrgico"
         },
         {
             "id": 2,
-            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2FconsultaMedica.mp4?alt=media&token=561de9cd-e410-4ed5-bf14-d554fb8149f5",
-            "descripcion": "¿Sabías que el sangrado genital durante la menopausia es motivo de consulta médica?\n\n\n\n Realizá la consulta con tu médico de confianza, nosotros te esperamos para realizarte los estudios complementarios que este recomiende.\n\n\n\n <strong>✔ Solicitá turno acá</strong>\n\n 📲3537-660207 | ☎️03537 - 420158/428594"
+            "imagen": "https://firebasestorage.googleapis.com/v0/b/dimecosalud-bellville.appspot.com/o/noticias%20por%20mes%2FTecnologia.mp4?alt=media&token=f304eba8-2613-4871-9245-4c3df944dcb9",
+            "descripcion": "¿Sabés cuáles son los Exámenes por Imágenes No Invasivos?\n\n <strong>✔ Ecografía\n\n ✔ Mamografía\n\n ✔ Tomografía\n\n ✔ Rayos X\n\n ✔  Densitometría\n\n</strong> ▶ Solicitá turno acá:\n\n 📲3537-660207 | ☎️03537 - 420158/428594"
         }
     ],
     "doctores": [
