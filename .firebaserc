@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "dimecosalud-bellville"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
