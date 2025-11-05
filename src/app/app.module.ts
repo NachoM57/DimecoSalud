@@ -21,6 +21,7 @@ import { Barranavegacion2Component } from './Componentes/barranavegacion2/barran
 import { BannerprofesionalesComponent } from './Componentes/bannerprofesionales/bannerprofesionales.component';
 import { DoctoresCardComponent } from './Componentes/doctores-card/doctores-card.component';
 import { NoticiasComponent } from './Componentes/noticias/noticias.component';
+import { EquipoNuevoComponent } from './Componentes/equipo-nuevo/equipo-nuevo.component';
 
 
 
@@ -41,6 +42,7 @@ import { NoticiasComponent } from './Componentes/noticias/noticias.component';
     BannerprofesionalesComponent,
     DoctoresCardComponent,
     NoticiasComponent,
+    EquipoNuevoComponent,
   ],
   imports: [
     BrowserModule,
