@@ -33,7 +33,7 @@ span {
 }
 
 h2,
-h4 {
+h5 {
     font-weight: bold;
     color: rgb(255, 255, 255);
 }
@@ -47,7 +47,7 @@ h6 {
     background-color: rgba(69, 69, 69, 0.631);
     border-radius: 0 10px 10px 0;
     position: absolute;
-    top: 360px;
+    top: 400px;
     padding: 20px;
     z-index: 2;
 }
@@ -66,6 +66,7 @@ h6 {
 
 .listaprincipal {
     list-style: none;
+    padding: 0;
 }
 
 .fa-solid.fa-check {
