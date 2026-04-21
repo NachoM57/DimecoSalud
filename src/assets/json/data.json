@@ -1,7 +1,7 @@
 {
     "navbar": [
         {
-            "imagen": "./assets/images/logo.png",
+            "imagen": "./assets/images/seleccion/logo.png",
             "alt": "Logo de Dimecó Salud",
             "enlace1": "INICIO",
             "enlace2": "NOSOTROS",
