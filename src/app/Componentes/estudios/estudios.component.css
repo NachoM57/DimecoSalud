@@ -5,7 +5,7 @@
 .info {
   width: 900px;
   height: 600px;
-  background: linear-gradient(rgba(255, 255, 255, 0.648), rgba(255, 255, 255, 0.953)), url('../../../assets/images/imagenfondo.webp');
+  background: linear-gradient(rgba(255, 255, 255, 0.648), rgba(255, 255, 255, 0.953)), url('../../../assets/images/seleccion/imagenfondo.webp');
   background-size: cover;
   /* para que la imagen cubra todo el contenedor */
   background-position: center;
